@@ -110,9 +110,9 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 
 <hr>
   
-<h2>Book chapter</h2>
+<h2>Book chapters</h2>
 
-<ol reversed> 
+
 
 <li><b>Nguyen, C.T.+</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W. , 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_chapter_urban_heat_SEA.pdf">  [PDF]</a></li> <br>
 
@@ -145,7 +145,7 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 
 <hr>
 
-<h2>Publication in Vietnamese</h2>
+<h2>Publications in Vietnamese</h2>
 
 > <p>For current interest, please check out my <a href="https://www.researchgate.net/profile/Trong-Can-Nguyen"> ResearchGate</a> </p>
 

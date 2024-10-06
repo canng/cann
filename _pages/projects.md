@@ -20,15 +20,15 @@ permalink: /projects/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<a href="{{ publi.link.url }}">
  <div class="well">
+ <a href="{{ publi.link.url }}">
  <p><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /></p>
  <h3><pubtit>{{ publi.title }}</pubtit></h3>
  <p>{{ publi.description }}</p>
  <p><em>{{ publi.keywords }}</em></p>
 
+ </a>
  </div>
-</a>
 </div>
 
 

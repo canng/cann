@@ -13,9 +13,9 @@ permalink: /review/
 
 <br>
 
-<div style="max-width: 1300px; margin: 0 auto;">
+<div style="max-width: 1000px; margin: 0 auto;">
 
-<table width="800">
+<table width="900">
     <tr>
         <td style="text-align: center;">
             <img src="{{site.baseurl}}/images/review/Certificate_SCS_Recognised.jpg" alt="" />

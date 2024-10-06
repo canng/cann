@@ -8,6 +8,8 @@ permalink: /publications/
 
 <br>
 
+<div style="width:90%; text-align:justify"></div>
+
 ## Publications
 
 <div style="text-align:justify" markdown="1">

@@ -12,6 +12,7 @@ permalink: /review/
 ## Academic services 
 
 <br>
+<div style="width:90%; text-align:justify"></div>
 
 <div style="max-width: 1000px; margin: 0 auto;">
 

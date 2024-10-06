@@ -31,14 +31,14 @@ permalink: /cv/
 
 <span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812 <br>
 
-<i class="glyphicon glyphicon-map-marker"></i> <b>Office:</b> [Krystal 1602]({{ site.url }}{{ site.baseurl }}/contact) <br> * 
+<i class="glyphicon glyphicon-map-marker"></i> <b>Office:</b> [Krystal 1602]({{ site.url }}{{ site.baseurl }}/contact) <br> 
 
 <i class="glyphicon glyphicon-search"></i><b>Research interests:</b>  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
 
-**CZP Profile**: <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
+<i class="glyphicon glyphicon-bookmark"></i>CZP Profile</b>: <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
 
 
-**Professional Experiences:**
+<i class="glyphicon glyphicon-hand-up"></i><b>Professional Experiences:</b>
 
 * 10/2023–present: Researcher<br>
 Environment Centre, Charles University, Czech Republic
@@ -56,7 +56,7 @@ Land Resources Department, Can Tho University, Vietnam
 KMUTT Geospatial Engineering and Innovation Center, King Mongkut’s University of Technology Thonburi, Thailand 
 
 
-**Education:**
+<i class="glyphicon glyphicon-book"></i><b>Education:</b>
 
 * 2019–2022: Ph.D. in Environment Technology, King Mongkut’s University of Technology Thonburi, Thailand. Advisor: Assoc. Prof. Dr. Amnat Chidthaisong.<br>
 Dissertation: <i>“Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces”</i> 

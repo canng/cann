@@ -1,6 +1,6 @@
 
 - title: "Urbanization and Urban environment"
-  image: RFs_Urban_environment.jpg
+  image: urban_environment.jpg
   description: Using remote sensing from different earth observation data sources and spatial analysis to detect land use, land cover changes in cities, urban expansion dynamics. Exploring urban expansion driving forces and simulating future urban sprawl. This research theme also includes studies on thermal environment changes, urban heat island and thermal comfort.
   authors: 
   link:
@@ -10,7 +10,7 @@
 
 
 - title: "Remote Sensing & Geoinformatic Applications"
-  image: RFs_Remote_sensing.jpg
+  image: Rs_applications.jpg
   description: Develop methodologies to improve data quality and better exploit earth observation data (such as spectral index, data fusion, and cloud removal). Applications of remote sensing in broad topics such as Land use, land cover changes, Agriculture, Forest, Aquaculture, and Disasters
   authors: 
   link:
@@ -20,7 +20,7 @@
 
 
 - title: "Ecosystem services"
-  image: RFs_Ecosystem_services_ugs.jpg
+  image: Ecosystem_services_ugs.jpg
   description: Flexibly apply Quatitative and Qualivative approaches to study Ecosystem services from different ecosystems ranging from nature to agricultural farmings, and urban ecosystems from beneficial and demand sides.
   authors: 
   link:
@@ -30,7 +30,7 @@
 
 
 - title: "Ecological environment"
-  image: RFs_Eco_environment.jpg
+  image: environnement.jpg
   description: It includes studies in ecological environment, quality, and dynamics. Environmental sustainability is also considered, which embraces biodiversity intactness, footprint and sustainable assessments.
   authors: 
   link:

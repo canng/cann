@@ -42,6 +42,7 @@ permalink: /review/
 
 <hr>
 <br>
+<div style="width:90%; text-align:justify"></div>
 
 #### **Editorial Board Member**
 

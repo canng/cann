@@ -36,11 +36,10 @@ permalink: /review/
 
 <br>
 
+<div style="font-size: 10px; text-align: justify">
 
-> <i>Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-reviewed process of over 20 Journals belonging to 05 different Publishers</i> 
->
-> <i>My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.</i> 
-
+> Over the past few years, starting from my doctoral program, I have gained several opportunities to contribute to the peer-review process of over 20 Journals belonging to 05 different Publishers. My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research.
+</div>
 
 <hr>
 <br>

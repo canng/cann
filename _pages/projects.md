@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: gridlay
+layout: piclay
 excerpt: "Projects"
 sitemap: false
 permalink: /projects/

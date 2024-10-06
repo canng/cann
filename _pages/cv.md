@@ -31,9 +31,9 @@ permalink: /cv/
 
 <span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812 <br>
 
-<i class="glyphicon glyphicon-map-marker"></i> <b>Office:</b> Krystal 1602 <br>
+<i class="glyphicon glyphicon-map-marker"></i> <b>Office:</b> [Krystal 1602]({{ site.url }}{{ site.baseurl }}/contact) <br> * 
 
-**Research interests**:  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
+<i class="glyphicon glyphicon-search"></i><b>Research interests:</b>  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
 
 **CZP Profile**: <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
 

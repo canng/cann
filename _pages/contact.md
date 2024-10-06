@@ -29,7 +29,7 @@ Czech Republic </p>
 
 <div class="col-sm-8">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/CZP_CUNI.jpg" class="img-responsive" width="400px" height="auto" alt="czp" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/CZP_CUNI.jpg" class="img-responsive" width="500px" height="auto" alt="czp" />
 <figcaption> Krystal campus, <span class="copyright">&copy;</span> CZP, CUNI
 </figcaption>
 </figure>

@@ -21,10 +21,10 @@ permalink: /projects/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <h4><pubtit>{{ publi.title }}</pubtit></h4>
   <div style="text-align:justify" markdown="1">
   <div class="container-fluid">
   <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" class="img-responsive" width="100%" /> </a></strong></p>
+  <h3><pubtit>{{ publi.title }}</pubtit></h3>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.keywords }}</em></p>
  </div>

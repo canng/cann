@@ -15,10 +15,10 @@ permalink: /cv/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-4">
+<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/cannguyen.jpg" class="img-responsive" width="100%" alt="Cann"/>
 </div>
-<div class="col-sm-8" >
+<div class="col-sm-6" >
 
 ### Dr. Trong Can Nguyen, Ph.D. 
 

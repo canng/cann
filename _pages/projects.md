@@ -3,7 +3,7 @@ title: "Projects"
 layout: gridlay
 excerpt: "Projects"
 sitemap: false
-permalink: /project/
+permalink: /projects/
 ---
 
 

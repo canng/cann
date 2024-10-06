@@ -22,7 +22,7 @@ permalink: /projects/
 <div class="col-sm-6 clearfix">
  <div class="container-fluid">
   <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></strong></p>
-  <p><a href="{{ publi.link.url }}"> <h3><pubtit>{{ publi.title }}</pubtit> </h3></a></p>
+  <a href="{{ publi.link.url }}"> <h3><pubtit>{{ publi.title }}</pubtit> </h3></a> <br>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.keywords }}</em></p>
  </div>

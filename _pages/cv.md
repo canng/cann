@@ -68,9 +68,7 @@ Thesis: <i>“Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming i
 
 **Additional information on me:**
 
-* <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">My full Curriculum Vitae can be found here</a> 
-
-* [Professional Experience and Education]({{ site.url }}{{ site.baseurl }}/education-mazzini)
+* <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true">Full Curriculum Vitae</a> 
 
 * [Publications]({{ site.url }}{{ site.baseurl }}/publications)
 

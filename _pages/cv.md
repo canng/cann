@@ -35,10 +35,10 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-search"></i><b> Research interests:</b>  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
 
-<i class="glyphicon glyphicon-bookmark"></i> CZP Profile</b>: <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
+<i class="glyphicon glyphicon-bookmark"></i><b> CZP Profile:</b> <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
 
 
-<i class="glyphicon glyphicon-hand-up"></i><b> Professional Experiences:</b>
+<i class="glyphicon glyphicon-star"></i><b> Professional Experiences:</b>
 
 * 10/2023–present: Researcher<br>
 Environment Centre, Charles University, Czech Republic

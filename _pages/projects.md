@@ -24,6 +24,8 @@ permalink: /projects/
   <h4><pubtit>{{ publi.title }}</pubtit></h4>
   <div style="text-align:justify" markdown="1">
   <div class="container-fluid">
+  <div class="row">
+  <div class="col-sm-3">
   <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: center" /> </a></strong></p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.keywords }}</em></p>

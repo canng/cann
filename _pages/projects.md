@@ -7,7 +7,7 @@ permalink: /projects/
 ---
 
 
-## On going Projects
+<h2 style="color: #fa7c1e;">On going Projects</h2>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.projectlist %}
@@ -51,7 +51,7 @@ permalink: /projects/
 <hr>
 <br>
 
-## Past Projects
+<h2 style="color: #fa7c1e;">Past Projects</h2>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.projectlist_past %}

@@ -13,8 +13,9 @@ permalink: /publications/
 <div style="text-align:justify" markdown="1">
 
 For a complete list and updated publications, go to: [Google Scholar](https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate)
-<br>
 
+<br>
+<br>
 
 <div style="padding: 40px; border: 5px solid transparent; border-color: transparent; margin-bottom: 100px; border-radius: 10px; color: #333333;; background-color: #fcf8e3; border-color: #faebcc;">
 

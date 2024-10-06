@@ -53,7 +53,7 @@ function myMap() {
   marker.setMap(map);
 
   var infowindow = new google.maps.InfoWindow({
-  content: "José Martího 407/2, 160 00 Praha 6 Czech Republic"
+  content: "Krystal, José Martího 407/2, 162 00 Praha 6-Veleslavín"
 });
 
 infowindow.open(map,marker);

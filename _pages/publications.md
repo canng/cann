@@ -42,7 +42,7 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 <br>
 <h3>2024 </h3>
 
-<li><b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a></li> <br> 
+<li><b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2024_EMA_LUCCC_ESS_Rayong.pdf">  [PDF]</a></li> <br>
 
 <li><b>Nguyen, C. T.+</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  [PDF]</a></li> <br>
 

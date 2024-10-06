@@ -1,16 +1,16 @@
 ---
-title: "Research"
+title: "Projects"
 layout: gridlay
-excerpt: "Research"
+excerpt: "Projects"
 sitemap: false
-permalink: /research/
+permalink: /project/
 ---
 
 
 ## Research topics
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.projectlist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -22,12 +22,9 @@ permalink: /research/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <h4><pubtit>{{ publi.title }}</pubtit></h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
+  <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: center" /> </a></strong></p>
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p><em>{{ publi.keywords }}</em></p>
  </div>
 </div>
 

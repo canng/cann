@@ -1,0 +1,79 @@
+I"B	<p><br /></p>
+
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-sm-4">
+      <div style="text-align:justify">
+        <p> Dr. Piero Mazzini <br />
+Virginia Institute of Marine Science <br />
+Post Office Box 1346 <br />
+1370 Greate Road <br />
+Gloucester Point, VA 23062 </p>
+        <p><span class="glyphicon glyphicon-phone-alt"></span> +1 (804) 684-7882 <br />
+<i class="glyphicon glyphicon-envelope"></i> <a href="mailto:pmazzini@vims.edu">pmazzini@vims.edu</a></p>
+      </div>
+    </div>
+
+    <div class="col-sm-8">
+      <figure>
+        <p><img src="/images/contapic/andrews_hall_Malmquist.jpg" class="img-responsive" width="400px" height="auto" alt="andrews" /></p>
+        <figcaption>
+          <p>Andrews Hall. <span class="copyright">©</span> D. Malmquist.</p>
+        </figcaption>
+      </figure>
+    </div>
+
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-sm-6">
+      <figure>
+        <p><img src="/images/contapic/vims_aereal_2.jpg" class="img-responsive" width="800px" height="auto" alt="VIMS" /></p>
+        <figcaption>
+          <p>VIMS Campus <span class="copyright">©</span> VIMS</p>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="col-sm-6">
+      <figure>
+        <p><img src="/images/contapic/C_Katella_VIMS.jpg" class="img-responsive" width="800px" height="auto" alt="rv_virginia" /></p>
+        <figcaption>
+          <p>R/V Virginia <span class="copyright">©</span> C. Katella</p>
+        </figcaption>
+      </figure>
+    </div>
+
+  </div>
+</div>
+
+<h4 id="directions-to-the-virginia-institute-of-marine-science-vims">Directions to the Virginia Institute of Marine Science (VIMS):</h4>
+
+<div id="map" style="width:100%;height:500px"></div>
+
+<script>
+function myMap() {
+  var myCenter = new google.maps.LatLng(37.25,-76.50);
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {center: myCenter, zoom: 11};
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  var marker = new google.maps.Marker({position:myCenter});
+  marker.setMap(map);
+
+  var infowindow = new google.maps.InfoWindow({
+  content: "1370 Greate Road - Gloucester Point, Virginia"
+});
+
+infowindow.open(map,marker);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7i6vSafRzNMdIaq-SslU9oycP9HMR9TM&amp;callback=myMap">
+</script>
+
+<p><br /></p>
+:ET

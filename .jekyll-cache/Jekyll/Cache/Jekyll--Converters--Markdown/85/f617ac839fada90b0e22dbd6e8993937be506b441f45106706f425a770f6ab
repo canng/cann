@@ -1,0 +1,79 @@
+I"�	<p><br /></p>
+
+<ul>
+  <li>For my full CV, please email me at <a href="mailto:pmazzini@vims.edu">pmazzini@vims.edu</a></li>
+</ul>
+
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-sm-6">
+      <figure>
+        <p><img src="/images/glider_piero.JPG" class="img-responsive" width="100%" alt="Piero Glider" /></p>
+        <figcaption>
+          <p>Deploying underwater gliders off the Oregon coast.</p>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="col-sm-6">
+      <div style="text-align:justify">
+
+        <h1 id="professional-experience">Professional Experience</h1>
+
+        <ul>
+          <li>
+            <p>2020-present: Assistant Professor at Virginia Institute of Marine Science - William &amp; Mary, USA</p>
+          </li>
+          <li>
+            <p>2017-2020: Assistant Professor at Estuary &amp; Ocean Science Center - San Francisco State University, USA.</p>
+          </li>
+          <li>
+            <p>2015-2017: Postdoctoral Research Associate at Rutgers University, USA. Supervisors: Dr. Robert J. Chant and Dr. John Wilkin. Research Project: <em>“Circulation and Mixing in a Coastally Trapped River Plume”</em></p>
+          </li>
+        </ul>
+
+        <h1 id="education">Education</h1>
+
+        <ul>
+          <li>
+            <p>2009-2014: Ph.D. in Physical Oceanography, Oregon State University, USA. Advisor: Dr. John A. Barth. <br />
+Dissertation: <a href="http://hdl.handle.net/1957/52595"><em> “The effect of river discharge and wind forcing on the Oregon coastal ocean during fall and winter” </em></a>.</p>
+          </li>
+          <li>
+            <p>2007-2009: M.S. in Physical Oceanography, University of São Paulo, Brazil.</p>
+          </li>
+          <li>
+            <p>2001-2006: B.S. (Honors) in Oceanography, University of Vale do Itajai, Brazil.</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-sm-6">
+      <figure>
+        <p><img src="/images/IMG_8559.JPG" class="img-responsive" width="500px" alt="hudson" /></p>
+        <figcaption>
+          <p>Oceanographic survey at Hudson River, New York</p>
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="col-sm-6">
+      <figure>
+        <p><img src="/images/caravelas_deploy.jpg" class="img-responsive" width="500px" alt="Caravelas" /></p>
+        <figcaption>
+          <p>Deploying a CTD sensor in the Caravelas estuary, Brazil.</p>
+        </figcaption>
+      </figure>
+    </div>
+
+  </div>
+</div>
+:ET

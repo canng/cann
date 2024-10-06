@@ -1,0 +1,54 @@
+---
+title: "Photos"
+layout: piclay
+excerpt: "COLAB -- Photos"
+permalink: /photos/EOS_Center/
+---
+
+<br>
+
+<!---->
+<!-- EOS Center -->
+<!---->
+
+<hr>
+<h3 style="color:Tomato" align="center"> <b>EOS Center - SF State Romberg Tiburon Campus</b> </h3>
+<hr>
+
+<h2><b> (Click [HERE](https://photos.app.goo.gl/xw9XWvYa3LWdnGar1) to see the photo gallery)</b></h2>
+{% assign number_printed = 0 %}
+{% for pic in site.data.pic_EOS_Center %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/EOS_Center/{{ pic.image }}" class="img-responsive" width="100%" style="float: left"/>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>

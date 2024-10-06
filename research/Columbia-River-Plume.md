@@ -1,0 +1,35 @@
+---
+title: "Influence of the Columbia River Plume on the Oregon Coast"
+layout: textlay
+excerpt: "COLAB -- Research"
+sitemap: false
+permalink: /research/Columbia-River-Plume/
+---
+
+<br>
+
+<div style="text-align:justify" markdown="1">
+
+### <b> Influence of the Columbia River Plume on the Oregon Coast </b>
+
+<p> Looking into the summer time off Oregon, we investigated the Columbia River plume during the 2010-2011 anomalous La Niña event. Extreme runoff in the Columbia River caused by both melting of the anomalously high snowpack and rainfall, drove the lowest salinity value registered off Newport, since sustained observations (NH-10 mooring) began in 1999. </p>
+<p> By combining multiple oceanographic observations, which included underwater gliders, HF radar, moorings, shipboard data, meteorological stations, and satellite remote sensing, it was possible to capture for the first time the onshore advection of the Columbia River plume from the mid-shelf, 20 km offshore, to the coast and eventually into Yaquina Bay (Newport, OR) during a sustained wind reversal event. </p>
+<p> The movement of Columbia River water into coastal estuaries off Oregon, not only provides a pathway for the movement of organisms between estuaries but also suggests a mechanism by which remote estuarine waters with their particular biogeochemical composition can enter and influence the biogeochemistry of local estuaries many of which, including Yaquina Bay, support shellfish farming that is estimated to contribute over $270 million in regional economic activity. </p>
+</div>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Figure5.jpg" width="100%" class="img-responsive">
+<figcaption> Daily averaged MODIS/Aqua 555 nm Rrs measurements, an effective tracer of particulate matter in the water column, for 9 July 2011 (left) and 13 July 2011 (right). Warm colors represent the turbid waters from the Columbia River Plume. Vectors show daily averaged detided surface current velocities derived from HF Radar observations.
+</figcaption>
+</figure>
+
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Figure4.jpg" width="100%" class="img-responsive">
+<figcaption> Time series of: wind stress from NOAA buoy station 46094 at NH-10, located approximately 2 km south of the NH-line (top); temperature (middle) and salinity (bottom) measured near surface (~2m) at NH-10, ISMT2 and LOBO, and at depth (23.5 m) at ISMT2.
+</figcaption>
+</figure>
+
+**Publication:**
+
+* Mazzini, P.L.F., C. M. Risien, J. A. Barth, S. Pierce, A. Erofeev, E. Dever, M. Kosro, M. Levine, R. K. Shearman, M. Vardaro. Anomalous near-surface low-salinity pulses off the central Oregon coast. 2015. <i> Nature Scientific Reports </i>, 5, 17145. [[Nature]](https://www.nature.com/articles/srep17145)

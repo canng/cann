@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "e999e880f7db9401",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f57174b243a9add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b7da79d368ab37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/NSF-River-Plume.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64dd3af1ee299789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/NSF-Submesoscale-Frontal-Dymamics.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb4d8cff01b402e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/research.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "304591bf0c47add4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6e19e08dea47f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c36065ef8985442",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29232d63c2e8a981",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8432c7473b6227bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0811f7d66ec32a56",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "950f1e99edecfd24",
+    "type": "split",
+    "children": [
+      {
+        "id": "9754b567ea4adaab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31f3d57334479887",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "394331d417c7e0ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2603c72084e68033",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c850e27efd5dcc27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/research.md"
+              }
+            }
+          },
+          {
+            "id": "4618fc3aeb836c96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff247f1f2340a185",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 645.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": true,
+      "templates:Insert template": true,
+      "file-tree-alternative:File Tree Alternative Plugin": true
+    }
+  },
+  "active": "ff247f1f2340a185",
+  "lastOpenFiles": [
+    "research/NSF-Submesoscale-Frontal-Dymamics.md",
+    "_pages/research.md",
+    "research/NSF-River-Plume.md",
+    "_site/research/NSF-Submesoscale-Frontal-Dynamics/index.html",
+    "_site/research/NSF-Submesoscale-Frontal-Dynamics",
+    "_site/research/NSF-Submesoscale-Frontal-Dymamics.html",
+    "_site/research/NSF-Submesoscale-Frontal-Dynamics.html",
+    "_site/research/NSF-Submesoscale-Frontal-Dymamics.md",
+    "research/Oregon-Coastal-Current.md",
+    "_pages/publications.md",
+    "_pages/team.md",
+    "_site/images/teampic/nardi_r_primary.png",
+    "_site/images/teampic/mazzini_p_primary.png",
+    "_site/images/teampic/abrao_j_primary.png",
+    "images/teampic/mazzini_p_primary.png",
+    "images/teampic/abrao_j_primary.png",
+    "images/teampic/nardi_r_primary.png",
+    "fonts/glyphicons-halflings-regular.svg",
+    "_posts/2023-07-31-New-Paper-Published.md",
+    "_posts/2023-07-26-Congrats-Master-Nathan.md",
+    "_posts/2023-07-21-New-NSF-Grant.md",
+    "_posts/2022-07-19-COLAB-in-the-news.md",
+    "_posts/2022-07-12-New-Paper_Published.md",
+    "_posts/2022-03-28-NSF-Research-Cruise-SF-Plume.md",
+    "_posts/2022-03-17-New-Paper-Published.md",
+    "_posts/2022-02-08-COLAB-Research-in-the-News.md",
+    "_posts/2022-03-05-OSM-2022.md",
+    "_posts/2022-01-20-COLAB-Research-in-the-News.md",
+    "_posts/2022-01-15-COLAB-Research-in-the-News.md",
+    "_posts/2022-01-10-COLAB-Research-in-the-News.md",
+    "_posts/2022-01-08-New-Paper-Published.md",
+    "_posts/2021-12-18-Congrats-Master-Nick.md",
+    "_posts/2020-09-11-PhD-position-available.md",
+    "_posts/2020-07-09-New-Paper-Published.md",
+    "_posts/2020-06-09-New-NSF-Grant.md",
+    "_posts/2020-06-08-Saildrone-Paper.md"
+  ]
+}

@@ -41,7 +41,7 @@ Czech Republic </p>
 
 ### Directions to the Environment Centre, Charles University:
 
-<div id="map" style="width:100%;height:500px"></div>
+<div id="map" style="width:90%;height:500px"></div>
 
 <script>
 function myMap() {

@@ -12,7 +12,7 @@ permalink: /publications/
 
 <div style="text-align:justify" markdown="1">
 
-For a complete list and updated publications, go to: [Google Scholar](https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate)
+For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></a>
 
 <br>
 <br>
@@ -37,7 +37,7 @@ For a complete list and updated publications, go to: [Google Scholar](https://sc
 <ol reversed>
 <br>
 
-><i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i> <br>
+<i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i> <br>
 
 <br>
 <h3>2024 </h3>

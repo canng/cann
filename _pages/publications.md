@@ -35,7 +35,7 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 <ol reversed>
 <br>
 
-<i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(* Corresponding Author)</i> <br>
+<i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(+ Corresponding Author)</i> <br>
 
 <br>
 <h3>2024 </h3>

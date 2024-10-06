@@ -19,7 +19,6 @@ permalink: /projects/
 <div class="row">
 {% endif %}
 
-// 
 
 <div class="col-sm-6 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->

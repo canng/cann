@@ -18,7 +18,7 @@ permalink: /cv/
 <div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/cannguyen.jpg" class="img-responsive" width="100%" alt="Cann"/>
 </div>
-<div class="col-sm-6" >
+<div class="col-sm-9" >
 
 ### Dr. Trong Can Nguyen, Ph.D. 
 

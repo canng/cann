@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Cann | Publications"
 layout: textlay
 excerpt: "ublications."
 sitemap: false

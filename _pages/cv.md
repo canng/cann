@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Cann | Resume"
 layout: textlay
 sitemap: false
 excerpt: "cv"

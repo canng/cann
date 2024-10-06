@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: "Cann | Contact"
 layout: textlay
 excerpt: "Contact me here"
 sitemap: false

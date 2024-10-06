@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Cann | Projects"
 layout: piclay
 excerpt: "Projects"
 sitemap: false

@@ -147,9 +147,7 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 
 <h2>Publication in Vietnamese</h2>
 
-<i>Updating ... </i> <br>
-    
-> For current interest, please visit my ResearchGate site
+>For current interest, please check out my <a href="https://www.researchgate.net/profile/Trong-Can-Nguyen"> ResearchGate</a>
 
 <br>
 

@@ -7,7 +7,7 @@ permalink: /projects/
 ---
 
 
-## Research topics
+## Research Project
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.projectlist %}

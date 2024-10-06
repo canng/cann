@@ -12,7 +12,7 @@ permalink: /publications/
 
 <div style="text-align:justify" markdown="1">
 
-For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></i>Google Scholar</a>
+For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></i> Google Scholar</a>
 
 <br>
 <br>

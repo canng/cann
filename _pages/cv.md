@@ -15,7 +15,7 @@ permalink: /cv/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-5">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/cannguyen.jpg" class="img-responsive" width="100%" alt="Cann"/>
 </div>
 <div class="col-sm-9" >

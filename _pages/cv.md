@@ -31,7 +31,7 @@ permalink: /cv/
 
 <span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812 <br>
 
-**Office**: Krystal 1602 <br>
+<i class="glyphicon glyphicon-map-marker"></i> <b>Office:</b> Krystal 1602 <br>
 
 **Research interests**:  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
 

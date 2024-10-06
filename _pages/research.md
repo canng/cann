@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: gridlay
+layout: piclay
 excerpt: "Research"
 sitemap: false
 permalink: /research/

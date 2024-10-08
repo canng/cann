@@ -9,7 +9,7 @@
   /*max-height: 6200px;  // I included this part to size figures
   max-width: 4200px;*/
   width: 120%; /* Adjust this to a specific value, e.g., 800px if needed */
-  height: 100px; /* Set the desired height */
+  height: 10px; /* Set the desired height */
 }
 
 .carousel-inner {
@@ -21,7 +21,7 @@
   > .item {
     display: none;
     position: relative;
-    @include transition(2s ease-in-out left);
+    @include transition(3s ease-in-out left);
 
     // Account for jankitude on images
     > img,

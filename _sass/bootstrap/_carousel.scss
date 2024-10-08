@@ -6,8 +6,10 @@
 // Wrapper for the slide container and indicators
 .carousel {
   position: relative;
-  /*max-height: 6200px;  // I included this part to size figures
-  max-width: 4200px;*/
+
+  // I included this part to size figures
+  max-height: 500px;  
+  max-width: 4200px; 
 }
 
 .carousel-inner {

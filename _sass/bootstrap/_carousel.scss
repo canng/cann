@@ -8,15 +8,11 @@
   position: relative;
   /*max-height: 6200px;  // I included this part to size figures
   max-width: 4200px;*/
-  width: 120%; /* Adjust this to a specific value, e.g., 800px if needed */
-  height: 10px; /* Set the desired height */
 }
 
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  width: 120%; /* Ensures the inner content matches the carousel width */
-  height: 10%; /* Matches the height set in the carousel */
 
   > .item {
     display: none;

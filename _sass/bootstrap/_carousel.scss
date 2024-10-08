@@ -15,8 +15,8 @@
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  width: 100%; /* Ensures the inner content matches the carousel width */
-  height: 100%; /* Matches the height set in the carousel */
+  width: 120%; /* Ensures the inner content matches the carousel width */
+  height: 10%; /* Matches the height set in the carousel */
 
   > .item {
     display: none;

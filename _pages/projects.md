@@ -24,9 +24,9 @@ permalink: /projects/
  <div class="well"> <!--  well-lg >> no box    -->
  <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></strong></p>
  <h4><a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a></h4>
- <p>{{ publi.period }}</p>
- <p>{{ publi.funder }}</p>
- <p><em>{{ publi.keywords }}</em></p>
+ <p>Period: {{ publi.period }}</p>
+ <p>Funder: {{ publi.funder }}</p>
+ <p>Keywords: <em>{{ publi.keywords }}</em></p>
 
  </div>
 </div>
@@ -69,9 +69,9 @@ permalink: /projects/
  <div class="well"> <!--  well-lg >> no box    -->
  <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></strong></p>
  <h4><a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a></h4>
- <p>{{ publi.period }}</p>
- <p>{{ publi.funder }}</p>
- <p><em>{{ publi.keywords }}</em></p>
+ <p>Period: {{ publi.period }}</p>
+ <p>Funder: {{ publi.funder }}</p>
+ <p>Keywords: <em>{{ publi.keywords }}</em></p>
 
  </div>
 </div>

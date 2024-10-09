@@ -28,7 +28,7 @@ date: 2024-01-01
 
 ### Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring
 
-<p style="font-size=20px">
+<p style="font-size:20px">
 
 **Objectives** <br>
 

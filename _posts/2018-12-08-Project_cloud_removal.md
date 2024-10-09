@@ -26,9 +26,6 @@ date: 2024-01-01
 > Period: 2017-2018 <br>
 > Funder: Can Tho University (internal)<br>
 
-
-### Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring 
-
 <br>
 
 #### **Objectives** <br>

@@ -27,7 +27,12 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-paperclip"></i><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> Full Curriculum Vitae</a> <br>
 
-<i class="glyphicon glyphicon-envelope"></i> <trongcan.ng@gmail.com> [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/trong-can-nguyen-b76b0a1a1/) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Trong-Can-Nguyen)  <br>
+<i class="glyphicon glyphicon-envelope"></i> <trongcan.ng@gmail.com> 
+[<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/trong-can-nguyen-b76b0a1a1/) 
+[<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ) 
+[<i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Trong-Can-Nguyen)
+[<i class="ai ai-orcid"></i>](https://orcid.org/0000-0003-0471-4062)
+<br>
 
 <span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812 <br>
 

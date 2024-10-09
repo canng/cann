@@ -46,7 +46,7 @@ permalink: /review/
 
 #### **Editorial Board Member**
 
-<a href="https://link.springer.com/journal/44327">Discover Cities</a>, Springer 
+<a href="https://link.springer.com/journal/44327">Discover Cities</a>, Springer (<i>from Sept 2023</i>)
 <br>
 <br>
 

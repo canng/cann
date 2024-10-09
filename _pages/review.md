@@ -98,7 +98,7 @@ International Association for Urban Climate (IAUC)
 
 #### Other Journals & Conferences
 
-<a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI); <a href="https://ctujs.ctu.edu.vn/index.php/ctujs/index">CTU Journal of Innovation and Sustainable Development</a> (ACI, DOAJ); The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a>;
+<a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI); <a href="https://ctujs.ctu.edu.vn/index.php/ctujs/index">CTU Journal of Innovation and Sustainable Development</a> (ACI, DOAJ); The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a>; National GIS Conference in Vietnam (<a href="https://gis2024.ctu.edu.vn/">GIS2024</a>)
  
 <br>
 

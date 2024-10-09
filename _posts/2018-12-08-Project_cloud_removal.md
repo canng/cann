@@ -77,7 +77,8 @@ date: 2024-01-01
 <br>
 
 
-> #### <p style="font-size:20px"> <b>Output</b></p>
+#### **Output**
+
 > <p style="font-size:18px"> Diep, N. T. H., <b>Can, N. T.</b>, Linh. T. L. P., & Huong, H. T. T., 2018. Assessment of cloud removal method on MODIS time series images for land cover mapping. Can Tho University Journal of Science. 54(9), 67-74, <a href="https://doi.org/10.22144/ctu.jvn.2018.182">  10.22144/ctu.jvn.2018.182</a> <i>(in Vietnamese)</i></p> 
 
 

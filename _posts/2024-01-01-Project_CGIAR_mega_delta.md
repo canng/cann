@@ -26,7 +26,8 @@ date: 2024-01-01
 > Funder: Internatonal Rice Research Institute (IRRI-Vietnam) <br>
 
 
-#### Phase 1: Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD)
+### **Phase 1**: Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD)
+
 <p style="font-size=20px">
 
 **Objetives**
@@ -40,16 +41,16 @@ date: 2024-01-01
 
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_map.jpg" class="img-responsive" width="400px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_map.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption> The location of An Giang and Can Tho province in Vietnamese Mekong Delta, where the interview was conducted
 </figcaption>
 </figure>
 </div>
-<div class="col-sm-6">
+<div class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpg" class="img-responsive" width="400px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption> Interview with the head of the cooperative in Co Do district (Can Tho city) and the farmers in Thoai Son district (An Giang province)
 </figcaption>
 </figure>

@@ -20,7 +20,7 @@ permalink: /projects/
 {% endif %}
 
 
-<div class="col-sm-2 clearfix">
+<div class="col-sm-4 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->
  <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></strong></p>
  <h4><a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a></h4>
@@ -65,7 +65,7 @@ permalink: /projects/
 {% endif %}
 
 
-<div class="col-sm-2 clearfix">
+<div class="col-sm-4 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->
  <p><strong><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></strong></p>
  <h4><a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a></h4>

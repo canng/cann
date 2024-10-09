@@ -4,7 +4,7 @@ title: "CGIAR: Securing the food system of Asian mega-deltas for Climate and Liv
 date: 2024-01-01
 ---
 
-<div style="text-align:justify">
+<div style="text-align:justify; font-size=30;">
 
 <div class="container-fluid">
 <div class="row">
@@ -27,8 +27,6 @@ date: 2024-01-01
 
 
 ### Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring
-
-<p style="font-size:20px">
 
 **Objectives** <br>
 
@@ -57,16 +55,15 @@ date: 2024-01-01
 </div>
 </div>
 
-</p>
 
 <br>
 <br>
 
-<p style="font-size=20">
 
 <i>Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a><br> </i>
 
-</p>
 
 
 
+
+</div>

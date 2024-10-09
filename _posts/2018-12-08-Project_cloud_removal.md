@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solution for Cloud removal on MODIS time to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam"
-date: 2024-01-01
+date: 2018-12-08
 ---
 
 

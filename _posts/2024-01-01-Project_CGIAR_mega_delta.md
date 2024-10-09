@@ -61,7 +61,7 @@ date: 2024-01-01
 > <h4><b>Summary: </b></h4> 
 > The Mekong Delta is a pivotal agricultural region in Vietnam, known for its extensive and varied production. Covering over 80% of its area with rice farming, the delta's agricultural landscape is dominated by double and triple rice crops, especially in the Dong Thap Muoi and Long Xuyen Quadrangle regions, including Kien Giang, An Giang, Can Tho, Dong Thap, and Long An provinces. In contrast, coastal areas feature rice-shrimp farming and other brackish aquaculture, with significant activities in Kien Giang, Bac Lieu, Soc Trang, and Tra Vinh. The region is also celebrated for its fruit production, with major orchards in Tien Giang, Ben Tre, Vinh Long, Can Tho, Hau Giang, and Soc Trang provinces, producing a variety of geographical indication fruits. Brackish aquaculture, particularly the mangrove-shrimp model, is prevalent in the Ca Mau peninsula. The distribution of agricultural land use is heavily influenced by water resources and irrigation systems. However, the delta faces challenges from climate change, including drought, saltwater intrusion, and soil degradation, threatening food security and livelihoods. In response, local authorities are shifting from traditional rice cultivation to diverse fruit and vegetable farming, and expanding aquaculture in coastal areas to adapt to changing conditions. This report tackles a comprehensive land use analysis of the Mekong Delta region covering all its thirteen provinces.
 
-
+### **Phase 3**: Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD)
 
 
 

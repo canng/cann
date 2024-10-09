@@ -21,8 +21,10 @@ permalink: /research/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
- <p><strong><a href="{{ publi.link.url }}"><pubtit><h4>{{ publi.title }}</h4></pubtit></a></strong></p>  
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+ <p><h4><strong><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></strong></h4></p>  
+ <p><strong><a href="{{ publi.link.url }}">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+ </a></strong></p>  
   <p style="text-align:justify">{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

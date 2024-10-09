@@ -151,12 +151,13 @@ For a complete list and updated publications, go to: <a href="https://scholar.go
 <ol reversed>
 
 <li>Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a></li><br> 
+</ol>
 
 <hr>
 
 <h2>Publications in Vietnamese</h2>
 
-<p style="font-size: 18px; text-align: justify">For current interest, please check out my [ResearchGate](https://www.researchgate.net/profile/Trong-Can-Nguyen)</p>
+><p style="font-size: 18px; text-align: justify">For current interest, please check out my <a href="https://www.researchgate.net/profile/Trong-Can-Nguyen">ResearchGate</a></p>
 
 <br>
 

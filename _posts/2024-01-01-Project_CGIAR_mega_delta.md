@@ -10,7 +10,7 @@ date: 2024-01-01
 <div class="row">
 <div class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_mega_delta.png" class="img-responsive" width="900px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_mega_delta.png" class="img-responsive" width="400px" height="auto" />
 <figcaption></figcaption>
 </figure>
 </div>

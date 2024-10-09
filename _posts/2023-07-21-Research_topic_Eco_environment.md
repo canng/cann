@@ -11,8 +11,7 @@ date: 2023-07-21
 <div class="col-sm-12">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/RFs_Eco_environment.jpg" class="img-responsive" width="900px" height="auto" />
-<figcaption>
-</figcaption>
+<figcaption></figcaption>
 </figure>
 </div>
 </div>

@@ -48,17 +48,20 @@ permalink: /review/
 
 <a href="https://link.springer.com/journal/44327">Discover Cities</a>, Springer 
 <br>
+<br>
 
 #### **Project Evaluation**
 
 National Science Center, Poland 
 <br>
+<br>
 
 #### **Membership**
 
 International Association for Urban Climate (IAUC)
-
 <br>
+<br>
+
 <hr>
 
 #### **Peer Reviewer for**

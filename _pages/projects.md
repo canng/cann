@@ -63,11 +63,11 @@ permalink: /projects/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
+ 
 
 <div class="col-sm-6 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->
- <p><<a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></p>
+ <p><a href="{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></p>
  <h4><a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a></h4>
  <p>Period: {{ publi.period }}</p>
  <p>Funder: {{ publi.funder }}</p>

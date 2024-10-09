@@ -10,4 +10,15 @@
   highlight: 1
 
 
+  - title: "Solution for Cloud removal on MODIS time to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam"
+  image: CTU_logo.jpg
+  period: 2017-2018
+  funder: Can Tho University
+  keywords: Remote sensing; MODIS; NDVI time series; Rice 
+  link:
+    url: https://canng.github.io/2024/01/01/Project_cloud_removal.html
+    display: Read more >
+  highlight: 1
+
+
 

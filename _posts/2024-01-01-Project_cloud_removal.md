@@ -9,7 +9,7 @@ date: 2024-01-01
 <div class="row">
 <div class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CTU_cloud_01.jpg" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CTU_cloud_01.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption></figcaption>
 </figure>
 </div>
@@ -20,7 +20,7 @@ date: 2024-01-01
 
 <div style="text-align:justify; font-size:20px;">
 
-## Project ID: 
+## Project ID: 2017-39
 
 > Role: Member:  <br>
 > Period: 2017-2018 <br>
@@ -58,7 +58,7 @@ date: 2024-01-01
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CTU_cloud_03.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CTU_cloud_04.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption> Compare NDVI time series before and after cloud removal 
 </figcaption>
 </figure>

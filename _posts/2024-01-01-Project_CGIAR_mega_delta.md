@@ -4,7 +4,7 @@ title: "CGIAR: Securing the food system of Asian mega-deltas for Climate and Liv
 date: 2024-01-01
 ---
 
-<div style="text-align:justify; font-size=30;">
+
 
 <div class="container-fluid">
 <div class="row">
@@ -18,6 +18,8 @@ date: 2024-01-01
 </div>
 
 <hr>
+
+<div style="text-align:justify; font-size:20px;">
 
 ## Project ID: C-2022-105 
 

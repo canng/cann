@@ -43,14 +43,13 @@ date: 2024-01-01
 <div class="row">
 <div class="col-sm-12">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_map.jpg" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_map.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption> The location of An Giang and Can Tho provinces in Vietnamese Mekong Delta, where the interviews were conducted
 </figcaption>
 </figure>
-</div>
-<div class="col-sm-12">
+
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpg" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption> Interview with the head of the cooperative in Co Do district (Can Tho city) and the farmers in Thoai Son district (An Giang province)
 </figcaption>
 </figure>
@@ -84,16 +83,19 @@ date: 2024-01-01
 </div>
 </div>
 
-
+<p style="font-size=20">
 > **<b>Summary: </b>** <br> 
 > The Mekong Delta is a pivotal agricultural region in Vietnam, known for its extensive and varied production. Covering over 80% of its area with rice farming, the delta's agricultural landscape is dominated by double and triple rice crops, especially in the Dong Thap Muoi and Long Xuyen Quadrangle regions, including Kien Giang, An Giang, Can Tho, Dong Thap, and Long An provinces. In contrast, coastal areas feature rice-shrimp farming and other brackish aquaculture, with significant activities in Kien Giang, Bac Lieu, Soc Trang, and Tra Vinh. The region is also celebrated for its fruit production, with major orchards in Tien Giang, Ben Tre, Vinh Long, Can Tho, Hau Giang, and Soc Trang provinces, producing a variety of geographical indication fruits. Brackish aquaculture, particularly the mangrove-shrimp model, is prevalent in the Ca Mau peninsula. The distribution of agricultural land use is heavily influenced by water resources and irrigation systems. However, the delta faces challenges from climate change, including drought, saltwater intrusion, and soil degradation, threatening food security and livelihoods. In response, local authorities are shifting from traditional rice cultivation to diverse fruit and vegetable farming, and expanding aquaculture in coastal areas to adapt to changing conditions. This report tackles a comprehensive land use analysis of the Mekong Delta region covering all its thirteen provinces.
+</p>
 
 <br>
-<hr>
 <br>
+
+<p style="font-size=20">
 
 <i>Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a><br> </i>
 
+</p>
 
 
 

@@ -99,11 +99,7 @@ date: 2024-01-01
 
 
 > <p style="font-size:20px"> <b>Technical Report on Land use package</b></p>
-> <p style="font-size:18px"> Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a></p><br>
-
-
-
-
+> <p style="font-size:18px"> Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
 
 
 </div>

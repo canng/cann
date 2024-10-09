@@ -62,7 +62,6 @@ date: 2024-01-01
 
 ### Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD)
 
-<p style="font-size=20px">
 
 **Objetives**
 
@@ -82,6 +81,8 @@ date: 2024-01-01
 </figcaption>
 </figure>
 </div>
+</div>
+</div>
 
 
 > **<b>Summary: </b>** <br> 
@@ -91,6 +92,6 @@ date: 2024-01-01
 <i>Diem, P. K., <b>Can, N. T.</b>, Tien, P. D., Diem, N. K., Nguyen, N. T., Hong, T. G., & Vu, P. H., 2024. Report on Land Use Analysis for 13 Provinces in Vietnamese Mekong Delta in 2022. Consultative Group on International Agricultural Research (CGIAR) <a href="https://hdl.handle.net/10568/151791">  Link </a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/report/2024_IRRI_Report_Landuseanalysis_CTU.pdf">  <i class="glyphicon glyphicon-file"></i></a><br> </i>
 
 
-</p>
+
 
 </div>

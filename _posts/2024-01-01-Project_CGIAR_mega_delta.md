@@ -32,10 +32,13 @@ date: 2024-01-01
 
 **Objectives** <br>
 
-<li>Understand the process of data collection and scoring of farmers’ rice farming practices according to SRP standards and performance indicators; </li>
-<li>Understand the benefits and challenges of the current system/tools for SRP data collection and scoring; </li><br>
-<li>Recommend improvements in the development and adoption of digital tools for SRP collection and scoring.</li><br>
+- Understand the process of data collection and scoring of farmers’ rice farming practices according to SRP standards and performance indicators; 
 
+- Understand the benefits and challenges of the current system/tools for SRP data collection and scoring; 
+
+- Recommend improvements in the development and adoption of digital tools for SRP collection and scoring. <br>
+
+<br>
 
 **Output**
 

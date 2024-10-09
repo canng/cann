@@ -28,7 +28,9 @@ date: 2024-01-01
 > Funder: Internatonal Rice Research Institute (IRRI-Vietnam) <br>
 
 
-### Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring <br>
+### Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring 
+
+<br>
 
 #### **Objectives** <br>
 
@@ -62,7 +64,9 @@ date: 2024-01-01
 
 <br>
 
-### Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD) <br>
+### Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD) 
+
+<br>
 
 #### **Objetives** <br>
 

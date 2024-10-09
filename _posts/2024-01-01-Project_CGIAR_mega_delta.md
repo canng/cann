@@ -27,6 +27,7 @@ date: 2024-01-01
 
 
 #### Phase 1: Study on costs and benefits of the main agricultural production systems in MRD (40,000 USD)
+<p style="font-size=20px">
 
 **Objetives**
 -  To develop a database of costs and revenues for various local agricultural production systems in the selected provinces based on survey data collected
@@ -35,6 +36,7 @@ date: 2024-01-01
 - Develop a database of climate change impacts on different cropping systems, risk assessments for the agriculture sector
 
 **Output (Report on)**: Using Digital Tools in Sustainable Rice Platform (SRP) for Data Collection and Scoring
+</p>
 
 <div class="container-fluid">
 <div class="row">
@@ -47,7 +49,7 @@ date: 2024-01-01
 </div>
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpgg" class="img-responsive" width="400px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_survey.jpg" class="img-responsive" width="400px" height="auto" />
 <figcaption> Interview with the head of the cooperative in Co Do district (Can Tho city) and the farmers in Thoai Son district (An Giang province)
 </figcaption>
 </figure>

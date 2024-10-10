@@ -27,6 +27,7 @@ permalink: /publications/
 <b><u>Nguyen, C.T.+</u></b>, Chidthaisong, A.+, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 82(July 2022), 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2022_SCS_103822_urban_heat_bkk_hcm.pdf">  <i class="glyphicon glyphicon-file"></i></a> <br>
 
 <b><u>Nguyen, C. T.+</u></b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_UE_ESS_UGS.pdf">  <i class="glyphicon glyphicon-file"></i></a>
+
 </div>
 
 <hr>

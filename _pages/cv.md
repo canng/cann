@@ -31,7 +31,7 @@ permalink: /cv/
 [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0003-0471-4062)
 </p>
 
-<i class="glyphicon glyphicon-paperclip"></i><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> Full Curriculum Vitae</a> <br>
+<i class="glyphicon glyphicon-paperclip"></i><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> Fully updated Curriculum Vitae</a> <br>
 
 <i class="glyphicon glyphicon-envelope"></i> <trongcan.ng@gmail.com> <br>
 

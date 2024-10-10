@@ -52,13 +52,13 @@ permalink: /review/
 
 #### **Project Evaluation**
 
-PRELUDIUM 23, National Science Center, Poland 
+<a href="https://www.ncn.gov.pl/en/finansowanie-nauki/konkursy/typy/2">PRELUDIUM</a>, National Science Center, Poland 
 <br>
 <br>
 
 #### **Membership**
 
-International Association for Urban Climate (IAUC)
+<a href="https://urban-climate.org/">International Association for Urban Climate (IAUC)</a>
 <br>
 <br>
 

@@ -50,7 +50,7 @@ permalink: /cv/
 <a href="https://czp.cuni.cz/en/">Environment Centre</a>, <a href="https://cuni.cz/UKEN-1.html">Charles University</a>, Czech Republic
 
 * 08/2022–08/2023: Researcher<br>
-<a href="https://www.psu.ac.th/en/">Prince of Songkhla University</a> (PSU - Hatyai campus) and Geo-Informatics & Space Technology Development Agency<a href="https://www.gistda.or.th/home.php?lang=EN"> (GISTDA)</a>, Sriracha, Thailand
+<a href="https://www.psu.ac.th/en/">Prince of Songkhla University</a> (PSU - Hatyai campus)<br>Geo-Informatics & Space Technology Development Agency<a href="https://www.gistda.or.th/home.php?lang=EN"> (GISTDA)</a>, Sriracha, Thailand
 
 * 08/2019–08/2022: Research Assistant (RA) and Freelance Researcher (FR)<br>
 Joint Graduate School of Energy and Environment <a href="https://www.jgsee.kmutt.ac.th/v3/">(JGSEE)</a>, King Mongkut’s University of Technology Thonburi, Thailand

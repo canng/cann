@@ -73,7 +73,7 @@ Dissertation: <i>“Assessment of Climate Change and Urbanization Impacts on Urb
 Can Tho University, Vietnam <br>
 Thesis: <i>“Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote Sensing”</i>
 
-* 2016–2018: B.Eng. in Land Management, <br<
+* 2016–2018: B.Eng. in Land Management, <br>
 <a href="https://en.ctu.edu.vn/">Can Tho University</a>, Vietnam <br>
 Thesis: <i>“Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming in An Minh District, Kien Giang Province”</i> 
 

@@ -1,22 +1,26 @@
 
-- title: "Project 1"
-  image: page-under-construction-icon.jpg
-  description: Updating 
-  keywords: Keyword1; Keyword2
+- title: "Assessing the situation of rural urbanization in the Long Xuyen Quadrangle under the impact of flood prevention dikes"
+  image: HCMVNU_logo.png
+  period: 2023-2024
+  funder: Vietnam National University, Ho Chi Minh City
+  keywords: Urbanization; Rural urbanization; Long Xuyen Quadrangle; Remote sensing; Flood prevention dikes
   link:
     url: https://canng.github.io/projects/
     display: Read more >
   highlight: 1
 
 
-- title: "Project 2"
-  image: page-under-construction-icon.jpg
-  description: Updating 
-  keywords: Keyword1; Keyword2
+- title: "Assessing Shifting Agriculture Land Use Structure to Adapt to Changes in Flood and Drought-Saline Intrusion Regimes in the Vietnam Mekong Delta"
+  image: HCMVNU_logo.png
+  period: 2023-2024
+  funder: Vietnam National University, Ho Chi Minh City
+  keywords: Agriculture; Socioeconomics; Saline intrusion; Vietnam Mekong Delta; Flood
   link:
     url: https://canng.github.io/projects/
     display: Read more >
   highlight: 1
+
+
 
 
 

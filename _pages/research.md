@@ -31,7 +31,7 @@ permalink: /research/
   
   <p><em>{{ publi.authors }}</em></p>
   
-  <p><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
+  <p style="font-size:20px"><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
   <p class="text-danger"><b> {{ publi.news1 }}</b></p>
   
   <p> {{ publi.news2 }}</p>

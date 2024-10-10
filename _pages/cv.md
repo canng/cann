@@ -47,30 +47,30 @@ permalink: /cv/
 <i class="glyphicon glyphicon-star"></i><b> Professional Experiences:</b>
 
 * 10/2023–present: Researcher<br>
-Environment Centre, Charles University, Czech Republic
+<a href="https://czp.cuni.cz/en/">Environment Centre</a>, <a href="https://cuni.cz/UKEN-1.html">Charles University</a>, Czech Republic
 
 * 08/2022–08/2023: Researcher<br>
-Prince of Songkhla University (PSU - Hatyai campus) and Geo-Informatics & Space Technology Development Agency, Thailand
+<a href="https://www.psu.ac.th/en/">Prince of Songkhla University</a> (PSU - Hatyai campus) and Geo-Informatics & Space Technology Development Agency<a href="https://www.gistda.or.th/home.php?lang=EN"> (GISTDA)</a>, Sriracha, Thailand
 
 * 08/2019–08/2022: Research Assistant (RA) and Freelance Researcher (FR)<br>
-Joint Graduate School of Energy and Environment (JGSEE), King Mongkut’s University of Technology Thonburi, Thailand
+Joint Graduate School of Energy and Environment <a href="https://www.jgsee.kmutt.ac.th/v3/">(JGSEE)</a>, King Mongkut’s University of Technology Thonburi, Thailand
 
 * 03/2016–07/2019: Research and Teaching Assistant (RA/TA)<br>
-Land Resources Department, Can Tho University, Vietnam
+<a href="https://lrd.ctu.edu.vn/">Land Resources Department</a>, Can Tho University, Vietnam
 
 * 12/2017–06/2018: Visiting Researcher<br>
-KMUTT Geospatial Engineering and Innovation Center, King Mongkut’s University of Technology Thonburi, Thailand 
+KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo/">(KGEO)</a>, King Mongkut’s University of Technology Thonburi, Thailand 
 
 
 <i class="glyphicon glyphicon-book"></i><b> Education:</b>
 
-* 2019–2022: Ph.D. in Environment Technology, King Mongkut’s University of Technology Thonburi, Thailand. Advisor: Assoc. Prof. Dr. Amnat Chidthaisong.<br>
+* 2019–2022: Ph.D. in Environment Technology, <a href="https://www.jgsee.kmutt.ac.th/v3/">JGSEE</a>, <a href="https://www.kmutt.ac.th/en/">King Mongkut’s University of Technology Thonburi</a>, Thailand. Advisor: Assoc. Prof. Dr. Amnat Chidthaisong.<br>
 Dissertation: <i>“Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces”</i> 
 
 * 2016–2018: M.Sc. in Land Management, Can Tho University, Vietnam <br>
 Thesis: <i>“Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote Sensing”</i>
 
-* 2016–2018: B.Eng. in Land Management, Can Tho University, Vietnam <br>
+* 2016–2018: B.Eng. in Land Management, <a href="https://en.ctu.edu.vn/">Can Tho University</a>, Vietnam <br>
 Thesis: <i>“Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming in An Minh District, Kien Giang Province”</i> 
 
 

@@ -10,16 +10,6 @@
   highlight: 1
 
 
-- title: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam"
-  image: CTU_logo_long.jpg
-  period: 2017-2018
-  funder: Can Tho University
-  keywords: Remote sensing; MODIS; NDVI time series; Rice 
-  link:
-    url: https://canng.github.io/2018/12/08/Project_cloud_removal.html
-    display: Read more >
-  highlight: 1
-
 - title: "Integrated Assessment of SDGs for Bangkok Metropolitan Region (BMR) and Eastern Economic Corridor (EEC) based on Earth-Observation and Space Technology"
   image: CBAS-Logo.png
   period: 2022-2025 [resigned from 2024]
@@ -30,3 +20,35 @@
     display: Read more >
   highlight: 1
 
+
+- title: "So COOL KMUTT Plan"
+  image: KMUTT_logo.png
+  period: 2021 
+  funder: KMUTT Steering Committee for Carbon Neutrality by 2040
+  keywords: Remote sensing; UHIs; Green space planning; Energy consumption; InVEST
+  link:
+    url: https://canng.github.io/projects/
+    display: Read more >
+  highlight: 1
+
+
+- title: "Can Tho University Improvement Project"
+  image: CTU_logo_long.jpg
+  period:  2017-2021
+  funder: CTU-JICA ODA 
+  keywords: Remote sensing; GIS; Urban; Disasters; GHGs
+  link:
+    url: https://canng.github.io/projects/
+    display: Read more >
+  highlight: 1
+
+
+- title: "Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam"
+  image: CTU_logo_long.jpg
+  period: 2017-2018
+  funder: Can Tho University
+  keywords: Remote sensing; MODIS; NDVI time series; Rice 
+  link:
+    url: https://canng.github.io/2018/12/08/Project_cloud_removal.html
+    display: Read more >
+  highlight: 1

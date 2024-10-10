@@ -58,7 +58,7 @@ permalink: /review/
 
 #### **Membership**
 
-<a href="https://urban-climate.org/">International Association for Urban Climate (IAUC)</a>
+International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a>
 <br>
 <br>
 

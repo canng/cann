@@ -40,6 +40,8 @@ permalink: /publications/
 
 <i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(+ Corresponding Author)</i> <br>
 
+><p style='color: #2596be; font-size: 18px; text-align: justify"'>First author: <b>09</b> papers; First & corresponding author: <b>08</b> papers; Corresponding author: <b>10</b> papers</p>
+
 <br>
 <h3>2024 </h3>
 

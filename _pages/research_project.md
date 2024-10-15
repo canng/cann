@@ -3,7 +3,7 @@ title: "Cann | Research"
 layout: piclay
 excerpt: "Research"
 sitemap: false
-permalink: /research/
+permalink: /research_project/
 ---
 
 

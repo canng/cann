@@ -28,7 +28,7 @@ permalink: /research_project/
  <h4 style="font-size:28px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
  
  <p><b><a href="{{ publi.link.url }}">
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="80%" />
  </a></b></p> 
 
   <p style="text-align:justify; font-size:20px">{{ publi.description }}</p>

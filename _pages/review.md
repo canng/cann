@@ -88,10 +88,11 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 <br>
 
-#### Taylor and Francis  (2 Journals)
+#### Taylor and Francis  (3 Journals)
 
 (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
-(2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>
+(2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>;
+(3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
 
 <br>
 

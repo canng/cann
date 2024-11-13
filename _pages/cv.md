@@ -33,9 +33,9 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-paperclip"></i><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> Full Curriculum Vitae</a> <br>
 
-<i class="glyphicon glyphicon-envelope"></i> <can.nguyen@czp.cuni.cz> <br> <trongcan.ng@gmail.com> <br>
+<i class="glyphicon glyphicon-envelope"></i> @<can.nguyen@czp.cuni.cz>   @<trongcan.ng@gmail.com> <br>
 
-<span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812 <br> (+84) 382 455 945 <br>
+<span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812;   (+84) 382-455-945 <br>
 
 <i class="glyphicon glyphicon-map-marker"></i> <b> Office:</b> [Krystal 1602]({{ site.url }}{{ site.baseurl }}/contact) <br> 
 

@@ -33,11 +33,15 @@ permalink: /review/
             <img src="{{site.baseurl}}/images/review/Certificate_JUM_Recognised.jpg" alt="" />
         </td>
     </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
+        </td>
+        <td style="text-align: center;">
+            
+        </td>
+    </tr>
 </table>
-
-<div style="width:50%; text-align:center">
-<img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
-</div>
 
 <br>
 

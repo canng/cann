@@ -35,7 +35,7 @@ permalink: /review/
     </tr>
 </table>
 
-<div style="width:90%; text-align:center">
+<div style="width:50%; text-align:center">
 <img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
 </div>
 

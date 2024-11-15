@@ -35,9 +35,10 @@ permalink: /review/
     </tr>
 </table>
 
-<td style="text-align: center;">
-    <img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
-</td>
+<div style="width:90%; text-align:center">
+<img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
+</div>
+
 <br>
 
 > <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 20 Journals belonging to 05 different Publishers. My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>

@@ -79,9 +79,9 @@ Thesis: <i>“Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming i
 
 
 
-**Additional information on me:**
+**Additional information:**
 
-* [Publications]({{ site.url }}{{ site.baseurl }}/publications)
+* [Full list of Publications]({{ site.url }}{{ site.baseurl }}/publications)
 
 * **Hobbies:** Badminton, Coding, Cooking, Meditation, Traveling, Nature. 
 

@@ -9,8 +9,6 @@ permalink: /funfact/
 
 <br>
 
-## Sustainable Development Goals (SDGs)
-
 <div class="container-fluid">
 <div class="row">
 

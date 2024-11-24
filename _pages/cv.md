@@ -66,7 +66,6 @@ KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo
 
 * 2019–2022: Ph.D. in Environment Technology, <br>
 <a href="https://www.jgsee.kmutt.ac.th/v3/">JGSEE</a>, <a href="https://www.kmutt.ac.th/en/">King Mongkut’s University of Technology Thonburi</a>, Thailand. <br>
-Advisor: Assoc. Prof. Dr. Amnat Chidthaisong.<br>
 Dissertation: <i>“Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces”</i> 
 
 * 2016–2018: M.Sc. in Land Management, <br>

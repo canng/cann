@@ -1,9 +1,9 @@
 ---
-title: "Cann | Fun Facts"
+title: "Cann | SDGs"
 layout: textlay
-excerpt: "Fun Facts"
+excerpt: "SDGs"
 sitemap: false
-permalink: /funfact/
+permalink: /sdgs/
 ---
 
 

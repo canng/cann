@@ -15,7 +15,7 @@ permalink: /funfact/
 <div class="row">
 
 
-<div class="col-sm-8">
+<div class="col-sm-6">
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg11.png" class="img-responsive" width="50%" alt="SDG11"/>
 

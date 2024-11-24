@@ -11,6 +11,19 @@ permalink: /funfact/
 
 ## Sustainable Development Goals (SDGs)
 
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-sm-12">
+<img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdgs.jpg" class="img-responsive" width="100%" alt="SDGs"/>
+</div>
+
+</div></div>
+
+<br>
+
+> <p style="font-size: 18px; text-align: justify"> My projects and research contribute to the following Sustainable Development Goals (SDGs) </p>
+
 <br>
 <div style="width:90%; text-align:justify"></div>
 

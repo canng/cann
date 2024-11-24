@@ -18,15 +18,14 @@ permalink: /funfact/
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg11.png" class="img-responsive" width="50%" alt="SDG11"/>
 
-<div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg13.png" class="img-responsive" width="50%" alt="SDG13"/>
-</div>
 
-<div class="col-sm-4">
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg15.png" class="img-responsive" width="50%" alt="SDG15"/>
-</div>
 
-<div class="col-sm-4">
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg2.png" class="img-responsive" width="50%" alt="SDG2"/>
 </div>
 
@@ -49,7 +48,7 @@ permalink: /funfact/
 </div>
 
 <div class="col-sm-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg14.png" class="img-responsive" width="50%" alt="SIabchoon"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg14.png" class="img-responsive" width="50%" alt="SDG14"/>
 </div>
 
 

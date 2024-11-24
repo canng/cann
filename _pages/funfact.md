@@ -15,18 +15,16 @@ permalink: /funfact/
 <div class="row">
 
 
-<div class="col-sm-4">
+<div class="col-sm-8">
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg11.png" class="img-responsive" width="50%" alt="SDG11"/>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg13.png" class="img-responsive" width="50%" alt="SDG13"/>
 
-
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg15.png" class="img-responsive" width="50%" alt="SDG15"/>
 
-
-
 <img src="{{ site.url }}{{ site.baseurl }}/images/SDGs/sdg2.png" class="img-responsive" width="50%" alt="SDG2"/>
+
 </div>
 
 

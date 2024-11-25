@@ -88,11 +88,12 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 <br>
 
-#### Springer & Springer Nature  (3 Journals)
+#### Springer & Springer Nature  (4 Journals)
 
 (1) <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>; 
 (2) <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>; 
 (3) <a href="https://www.nature.com/srep/">Scientific Reports</a> 
+(4) <a href="https://link.springer.com/journal/41748">Earth Systems and Environment</a> 
 
 <br>
 

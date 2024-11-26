@@ -74,6 +74,8 @@ permalink: /
 <br>
 <br>
 
-</div>
-</div>
 </p>
+
+
+</div>
+</div>

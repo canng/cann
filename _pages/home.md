@@ -70,12 +70,10 @@ He completed his doctoral degree in Environmental Technology in 2022 at <a href=
 
 His mission is to be an <i>Environmental Geographer</i>, who adopts <i>Remote sensing</i> and <i>Geoinformatics</i> by both quantitative and qualitative approaches to address diverse environmental problems and work towards ensuring environmental and living qualities for involved stakeholders.
 
-
-<br>
-<br>
-
 </p>
 
+<br>
+<br>
 
 </div>
 </div>

@@ -48,7 +48,6 @@ permalink: /cv/
 * Urbanization  - Planning  - Urban Microclimate changes; 
 * Environmental Sustainability;
 * Ecosystem Services; 
-
 <br>
 
 <i class="glyphicon glyphicon-bookmark"></i><b> CZP Profile:</b> <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>

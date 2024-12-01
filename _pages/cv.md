@@ -39,7 +39,17 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-map-marker"></i> <b> Office:</b> [Krystal 1602]({{ site.url }}{{ site.baseurl }}/contact) <br> 
 
-<i class="glyphicon glyphicon-search"></i><b> Research interests:</b>  Environmental Geography; Land Change Science; Environment Management; Urban Microclimate; Urban Environmental Management & Planning; Ecosystem Services; Environmental Sustainability <br>
+<i class="glyphicon glyphicon-search"></i><b> Research interests:</b> 
+
+* Environmental Geography; 
+* Land Change Science; 
+* Human - Environment interactions;
+* Environment & Natural resources Management; 
+* Urbanization  - Planning  - Urban Microclimate changes; 
+* Environmental Sustainability;
+* Ecosystem Services; 
+
+<br>
 
 <i class="glyphicon glyphicon-bookmark"></i><b> CZP Profile:</b> <a href='https://czp.cuni.cz/en/about-us/staff/trong-can-nguyen'> Our staff </a>
 

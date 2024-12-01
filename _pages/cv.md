@@ -41,7 +41,7 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-search"></i><b> Research interests:</b> 
 
-* Environmental Geography; 
+* Environmental Geography & Geoinformatics; 
 * Land Change Science; 
 * Human - Environment interactions;
 * Environment & Natural resources Management; 

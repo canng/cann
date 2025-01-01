@@ -25,17 +25,17 @@ permalink: /research_project/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
- <h4 style="font-size:28px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
+ <h4 style="font-size:20px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
  
  <p><b><a href="{{ publi.link.url }}">
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="80%" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" />
  </a></b></p> 
 
-  <p style="text-align:justify; font-size:20px">{{ publi.description }}</p>
+  <p style="text-align:justify; font-size:16px">{{ publi.description }}</p>
   
   <p><em>{{ publi.authors }}</em></p>
   
-  <p style="font-size:20px"><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
+  <p style="font-size:16px"><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
   <p class="text-danger"><b> {{ publi.news1 }}</b></p>
   
   <p> {{ publi.news2 }}</p>
@@ -81,7 +81,7 @@ permalink: /research_project/
 
 <div class="col-sm-6 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->
- <p><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></p>
+ <p><a href="{{ publi.link.url }}"> <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="90%" /> </a></p>
  <a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a>
  <p>Period: {{ publi.period }}</p>
  <p>Funder: {{ publi.funder }}</p>
@@ -126,7 +126,7 @@ permalink: /research_project/
 
 <div class="col-sm-6 clearfix">
  <div class="well"> <!--  well-lg >> no box    -->
- <p><a href="{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="100%" /> </a></p>
+ <p><a href="{{ publi.link.url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ publi.image }}" width="90%" /> </a></p>
  <a href="{{ publi.link.url }}"> <pubtit>{{ publi.title }}</pubtit></a>
  <p>Period: {{ publi.period }}</p>
  <p>Funder: {{ publi.funder }}</p>

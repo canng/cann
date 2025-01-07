@@ -41,9 +41,10 @@ permalink: /publications/
 
 <i class="fa fa-users"></i><i> Author's name is: <u>Can Trong Nguyen</u> | <u>Nguyen Trong Can </u> | <u>Trong Can Nguyen </u></i> <i>(+ Corresponding Author)</i> <br>
 
-<p style='color: #2596be; font-size: 18px; text-align: justify"'>First author: <b>09</b> papers; First & corresponding author: <b>08</b> papers; Corresponding author: <b>10</b> papers</p> 
+<p style='color: #2596be; font-size: 18px; text-align: justify"'>First author: <b>10</b> papers; First & corresponding author: <b>09</b> papers; Corresponding author: <b>10</b> papers</p> 
 
 <br>
+
 
 <h3>2025 </h3>
 
@@ -53,7 +54,7 @@ permalink: /publications/
 
 <h3>2024 </h3>
 
-<li><b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2024_EMA_LUCCC_ESS_Rayong.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
+<li><b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (<i>SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies</i>), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2024_EMA_LUCCC_ESS_Rayong.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 
 <li><b>Nguyen, C. T.+</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 

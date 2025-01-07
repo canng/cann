@@ -25,7 +25,7 @@ permalink: /cv/
 #### Researcher 
 
 <p style="font-size: 35px">
-[<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/trong-can-nguyen-b76b0a1a1/) 
+[<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/can-t-nguyen-b76b0a1a1/) 
 [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?hl=vi&authuser=3&user=xnzuZiAAAAAJ) 
 [<i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Trong-Can-Nguyen)
 [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0003-0471-4062)

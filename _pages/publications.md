@@ -44,6 +44,15 @@ permalink: /publications/
 <p style='color: #2596be; font-size: 18px; text-align: justify"'>First author: <b>09</b> papers; First & corresponding author: <b>08</b> papers; Corresponding author: <b>10</b> papers</p> 
 
 <br>
+
+2025_urbansci_LULCC_Habitat_quality_Phu_Quoc.pdf
+
+<h3>2025 </h3>
+
+<li><b>Nguyen, C. T.+</b>, Downes, N. K., Sitthi, A., & Losiri, C., 2025. Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone. Urban Science, 9(1), 11. <a href="https://doi.org/10.3390/urbansci9010011">10.3390/urbansci9010011</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_urbansci_LULCC_Habitat_quality_Phu_Quoc.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
+
+
+
 <h3>2024 </h3>
 
 <li><b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2024_EMA_LUCCC_ESS_Rayong.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
@@ -54,7 +63,7 @@ permalink: /publications/
 
 <h3>2023 </h3>
 
-<li><b>Nguyen, C. T.+</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_UE_ESS_UGS.pdf">  <i class="glyphicon glyphicon-file"></i></a></li>  <br>
+<li><b>Nguyen, C. T.+</b>, & Chidthaisong A., 2023. Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications. Urban Ecosystems. 27, 855–868 <a href="https://doi.org/10.1007/s11252-023-01482-1">10.1007/s11252-023-01482-1</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_UE_ESS_UGS.pdf">  <i class="glyphicon glyphicon-file"></i></a></li>  <br>
 
 <li> Diem, P. K., <b>Nguyen, C. T.+</b>, Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., Phan, T. N., 2024. Remote sensing for urban heat island research: Progress, current issues, and perspectives. Remote Sensing Applications: Society and Environment. 33(January 2024), 101081 <a href="https://doi.org/10.1016/j.rsase.2023.101081">10.1016/j.rsase.2023.101081</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101081_review_uhi.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 

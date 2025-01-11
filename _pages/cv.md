@@ -76,10 +76,7 @@ KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo
 * 2019–2022: Ph.D. in Environment Technology, <br>
 <a href="https://www.jgsee.kmutt.ac.th/v3/">JGSEE</a>, <a href="https://www.kmutt.ac.th/en/">King Mongkut’s University of Technology Thonburi</a>, Thailand. <br>
 
-* 2016–2018: M.Sc. in Land Management, <br>
-Can Tho University, Vietnam <br>
-
-* 2016–2018: B.Eng. in Land Management, <br>
+* 2012–2016: B.Eng. in Land Management, <br>
 <a href="https://en.ctu.edu.vn/">Can Tho University</a>, Vietnam <br>
 
 

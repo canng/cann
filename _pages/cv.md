@@ -20,7 +20,7 @@ permalink: /cv/
 </div>
 <div class="col-sm-8" >
 
-### Dr. Trong Can Nguyen, Ph.D. 
+### Dr. Can T. Nguyen, Ph.D. 
 
 #### Researcher 
 

@@ -44,8 +44,8 @@ permalink: /cv/
 * Environmental Geography & Geoinformatics; 
 * Land Change Science; 
 * Human - Environment interactions;
-* Environment & Natural resources Management; 
-* Urbanization  - Planning  - Urban Microclimate changes; 
+* Environment & Natural Resources Management; 
+* Urbanization  - Planning  - Urban Microclimate Changes; 
 * Environmental Sustainability;
 * Ecosystem Services; 
 <br>
@@ -75,15 +75,12 @@ KMUTT Geospatial Engineering and Innovation Center <a href="http://kgeo.org/kgeo
 
 * 2019–2022: Ph.D. in Environment Technology, <br>
 <a href="https://www.jgsee.kmutt.ac.th/v3/">JGSEE</a>, <a href="https://www.kmutt.ac.th/en/">King Mongkut’s University of Technology Thonburi</a>, Thailand. <br>
-Dissertation: <i>“Assessment of Climate Change and Urbanization Impacts on Urban Surface Temperature and Ecosystem Services of Urban Green Spaces”</i> 
 
 * 2016–2018: M.Sc. in Land Management, <br>
 Can Tho University, Vietnam <br>
-Thesis: <i>“Analysis of Urban Heat Island and Energy Consumption in Bangkok Metropolitan Area using Remote Sensing”</i>
 
 * 2016–2018: B.Eng. in Land Management, <br>
 <a href="https://en.ctu.edu.vn/">Can Tho University</a>, Vietnam <br>
-Thesis: <i>“Studying and Evaluating Ecosystem Service of Rice-Shrimp Farming in An Minh District, Kien Giang Province”</i> 
 
 
 

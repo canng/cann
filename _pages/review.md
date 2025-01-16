@@ -57,7 +57,7 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 #### **Peer Reviewer for**
 
-#### Elsevier  (9 Journals)
+#### Elsevier  (09 Journals)
 
 (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
 (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
@@ -67,17 +67,19 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 (6) <a href="https://www.sciencedirect.com/journal/world-development-sustainability">World Development Sustainability</a>; 
 (7) <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>; 
 (8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
-(9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a> 
+(9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
+
 
 <br>
 
-#### Springer & Springer Nature  (5 Journals)
+#### Springer & Springer Nature (6 Journals)
 
 (1) <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>; 
 (2) <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>; 
 (3) <a href="https://www.nature.com/srep/">Scientific Reports</a>; 
 (4) <a href="https://link.springer.com/journal/41748">Earth Systems and Environment</a>; 
-(5) <a href="https://link.springer.com/journal/10661">Environmental Monitoring and Assessment</a> 
+(5) <a href="https://link.springer.com/journal/10661">Environmental Monitoring and Assessment</a>; 
+(6) <a href="https://link.springer.com/journal/11119">Precision Agriculture</a>  
 
 <br>
 

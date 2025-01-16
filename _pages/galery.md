@@ -13,7 +13,7 @@ permalink: /galery/
 
 <br>
 
-<iframe src="https://canng.github.io/assets/Sankey_lulcc.html" width="800" height="600"></iframe>
+<iframe src="https://canng.github.io/assets/Sankey_lulcc.html" width="1250" height="850"></iframe>
 
 
 

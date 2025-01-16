@@ -114,6 +114,8 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 (4) National GIS Conference in Vietnam (<a href="https://gis2024.ctu.edu.vn/">GIS2024</a>)
  
 <br>
+<br>
 
+<hr>
 
 </div>

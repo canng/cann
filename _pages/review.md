@@ -16,30 +16,13 @@ permalink: /review/
 
 <div style="max-width: 1000px; margin: 0 auto;">
 
-<table width="900">
+<table width="950">
     <tr>
         <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/review/Certificate_SCS_Recognised.jpg" alt="" />
-        </td>
-        <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/review/Certificate_ENVC_Recognised.jpg" alt="" />
+            <img src="{{site.baseurl}}/images/review/review_banner.png" alt="" />
         </td>
     </tr>
-    <tr>
-        <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/review/Certificate_JAG_Recognised.jpg" alt="" />
-        </td>
-        <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/review/Certificate_JUM_Recognised.jpg" alt="" />
-        </td>
-    </tr>
-    <tr>
-        <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/review/MDPI_2002_2024.jpg" alt="" />
-        </td>
-        <td style="text-align: center;">
-            
-        </td>
+    <tr>        
     </tr>
 </table>
 

@@ -26,7 +26,7 @@ permalink: /review/
 
 <br>
 
-> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 20 Journals from 05 Publishers. </p>
+> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. </p>
 > <p style="font-size: 18px; text-algin: justify"> My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>
 > <p style="font-size: 18px; text-align: justify"> Contributing to peer-review community, "I will review three manuscripts when I get accepted one paper". </p>
 
@@ -71,12 +71,13 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 <br>
 
-#### Springer & Springer Nature  (4 Journals)
+#### Springer & Springer Nature  (5 Journals)
 
 (1) <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>; 
 (2) <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>; 
-(3) <a href="https://www.nature.com/srep/">Scientific Reports</a> 
-(4) <a href="https://link.springer.com/journal/41748">Earth Systems and Environment</a> 
+(3) <a href="https://www.nature.com/srep/">Scientific Reports</a>; 
+(4) <a href="https://link.springer.com/journal/41748">Earth Systems and Environment</a>; 
+(5) <a href="https://link.springer.com/journal/10661">Environmental Monitoring and Assessment</a> 
 
 <br>
 
@@ -98,20 +99,23 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 <br>
 
-#### IOP  (3 Journals)
+#### IOP  (4 Journals)
 
 (1) <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>; 
 (2) <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>; 
 (3) <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a> 
+(4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
 
 <br>
 
 #### Other Journals & Conferences
 
-(1) <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a>, (ESCI); 
-(2) <a href="https://ctujs.ctu.edu.vn/index.php/ctujs/index">CTU Journal of Innovation and Sustainable Development</a> (ACI, DOAJ); 
-(3) The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a>; 
-(4) National GIS Conference in Vietnam (<a href="https://gis2024.ctu.edu.vn/">GIS2024</a>)
+(1) <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a> (ESCI); 
+(2) <a href="https://www.eurogeojournal.eu/index.php/egj/index">European Journal of Geography</a> (Scopus)
+(3) <a href="https://ctujs.ctu.edu.vn/index.php/ctujs/index">CTU Journal of Innovation and Sustainable Development</a> (ACI, DOAJ); 
+(4) The 42nd Asian Conference on Remote Sensing <a href="https://a-a-r-s.org/">(AARS)</a>; 
+(5) National GIS Conference in Vietnam (<a href="https://gis2024.ctu.edu.vn/">GIS2024</a>)
+
  
 <br>
 <br>

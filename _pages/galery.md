@@ -9,11 +9,12 @@ permalink: /galery/
 
 <br>
 
-[View Interactive Plot](assets/Sankey_lulcc.html)
+[View Interactive Plot](https://canng.github.io/assets/Sankey_lulcc.html)
 
 <br>
 
-<iframe src="assets/Sankey_lulcc.html" width="800" height="600"></iframe>
+<iframe src="https://canng.github.io/assets/Sankey_lulcc.html" width="800" height="600"></iframe>
+
 
 
 

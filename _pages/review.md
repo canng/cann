@@ -105,7 +105,7 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 (1) <a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a>; 
 (2) <a href="https://iopscience.iop.org/journal/2515-7620">Environmental Research Communications</a>; 
-(3) <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a> 
+(3) <a href="https://iopscience.iop.org/journal/2752-664X">Environmental Research: Ecology</a>;  
 (4) <a href="https://iopscience.iop.org/journal/2752-5309">Environmental Research: Health</a> 
 
 <br>

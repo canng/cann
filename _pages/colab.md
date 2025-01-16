@@ -16,7 +16,7 @@ permalink: /colab/
 
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/colabpic/Phan-Kieu-Diem.png" class="img-responsive" width="40%" alt="PKDiem"/>
-Dr. Phan Kieu Diem <br>
+Assoc. Prof. Dr. Phan Kieu Diem <br>
 Land Resources Dept., Can Tho University, Vietnam<br>
 </div>
 
@@ -52,11 +52,6 @@ An Giang University, Vietnam National University HCMC, Vietnam <br>
 </div>
 
 
-<div class="col-sm-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/colabpic/Sanwit-iabchoon.jpg" class="img-responsive" width="40%" alt="SIabchoon"/>
-Dr. Sanwit Iabchoon  <br>
-Institute of Urban Environment, Chinese Academy of Sciences, China<br>
-</div>
 
 
 

@@ -26,9 +26,9 @@ permalink: /review/
 
 <br>
 
-> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over 31 Journals from >05 Publishers. </p>
+> <p style="font-size: 18px; text-align: justify"> Over the past few years, starting from my doctoral program (2021), I have gained several opportunities to contribute to the peer-review process of over <b>31 Journals</b> from <b>>05 Publishers</b>. </p>
 > <p style="font-size: 18px; text-algin: justify"> My goal is to ensure scientific rigor while still encouraging and helping young scientists improve their research. </p>
-> <p style="font-size: 18px; text-align: justify"> Contributing to peer-review community, "I will review three manuscripts when I get accepted one paper". </p>
+> <p style="font-size: 18px; text-align: justify"> Contributing to peer-review community, <i>"I will review three manuscripts when I get accepted one paper"</i>. </p>
 
 
 <hr>

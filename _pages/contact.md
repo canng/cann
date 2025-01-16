@@ -16,7 +16,8 @@ permalink: /contact/
 
 <div class="col-sm-4">
 <div style="text-align:justify" markdown="1">
-<p> Dr. Trong Can Nguyen <br>
+<p> Dr. Can T. Nguyen <br>
+Room 1602, <br>
 Environment Centre <br>
 Charles University <br>
 José Martího 407/2 <br>

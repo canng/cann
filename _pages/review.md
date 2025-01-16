@@ -16,13 +16,11 @@ permalink: /review/
 
 <div style="max-width: 1000px; margin: 0 auto;">
 
-<table width="950">
+<table width="1000">
     <tr>
         <td style="text-align: center;">
             <img src="{{site.baseurl}}/images/review/review_banner.png" alt="" />
         </td>
-    </tr>
-    <tr>        
     </tr>
 </table>
 

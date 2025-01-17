@@ -8,6 +8,11 @@ permalink: /publications/
 
 <br>
 
+<img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
+
+<br>
+<br>
+
 <div style="width:90%; text-align:justify"></div>
 
 ## Publications
@@ -31,12 +36,15 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-5 clearfix">
+ <div class="well">
  <p style="font-size:17px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
- <div class="well"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" /></div>
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
  <p style="font-size:16px; text-align: left">{{ publi.description }}</p>
  <p style="font-size:15px; text-align: left"><em>{{ publi.authors }}</em></p>  
  <p style="font-size:15px; text-align: left"><b>{{ publi.journal }}</b></p>  
  <p style="font-size:15px; text-align: left">DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
+
+ </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

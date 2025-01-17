@@ -1,9 +1,9 @@
 ---
 title: "Cann | Publications"
 layout: textlay
-excerpt: "ublications."
+excerpt: "publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications_list/
 ---
 
 <br>

@@ -2,10 +2,12 @@
 - title: "Urbanization and Urban environment"
   image: urban_environment.jpg
   description: Using remote sensing from different earth observation data sources and spatial analysis to detect land use, land cover changes in cities, urban expansion dynamics. Exploring urban expansion driving forces and simulating future urban sprawl. This research theme also includes studies on thermal environment changes, urban heat island and thermal comfort.
-  authors: 
-  link:
-    url: https://canng.github.io/2023/07/21/Research_topic_Urban_Microclimate.html
+  authors: Can
+  doi:
+    url: https://canng.github.io/2023/07/21/Research_topic_RSGIS_Application.html
     display: Read more >
+  file:
+    url: https://canng.github.io/2023/07/21/Research_topic_Urban_Microclimate.html
   highlight: 1
 
 
@@ -13,9 +15,11 @@
   image: Rs_applications.jpg
   description: Develop methodologies to improve data quality and better exploit earth observation data (such as spectral index, data fusion, and cloud removal). Applications of remote sensing in broad topics such as Land use, land cover changes, Agriculture, Forest, Aquaculture, and Disasters
   authors: 
-  link:
+  doi:
     url: https://canng.github.io/2023/07/21/Research_topic_RSGIS_Application.html
     display: Read more >
+  file:
+    url: https://canng.github.io/2023/07/21/Research_topic_RSGIS_Application.html
   highlight: 1
 
 
@@ -23,9 +27,11 @@
   image: Ecosystem_services_ugs.jpg
   description: Flexibly apply Quatitative and Qualivative approaches to study Ecosystem services from different ecosystems ranging from nature to agricultural farmings, and urban ecosystems from beneficial and demand sides.
   authors: 
-  link:
-    url: https://canng.github.io/2023/07/21/Research_topic_Ecosystem_services.html
+  doi:
+    url: https://canng.github.io/2023/07/21/Research_topic_RSGIS_Application.html
     display: Read more >
+  file:
+    url: https://canng.github.io/2023/07/21/Research_topic_Ecosystem_services.html
   highlight: 1
 
 
@@ -33,9 +39,11 @@
   image: environnement.jpg
   description: It includes studies in ecological environment, quality, and dynamics. Environmental sustainability is also considered, which embraces biodiversity intactness, footprint and sustainable assessments.
   authors: 
-  link:
-    url: https://canng.github.io/2023/07/21/Research_topic_Eco_environment.html
+  doi:
+    url: https://canng.github.io/2023/07/21/Research_topic_RSGIS_Application.html
     display: Read more >
+  file:
+    url: https://canng.github.io/2023/07/21/Research_topic_Eco_environment.html
   highlight: 1
   
 

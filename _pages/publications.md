@@ -65,9 +65,9 @@ permalink: /publications/
 
   <p style="font-size:16px"><em>{{ publi.authors }}</em></p>
   
-  <p style="font-size:16px"><b><a href="{{ publi.link.url }}">{{ publi.doi.display }}</a></b></p>
+  <p style="font-size:16px"><b>DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </b></p>
 
-  <p style="font-size:16px"><i class="glyphicon glyphicon-file"></i><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
+  <p style="font-size:16px"><b><a href="{{ publi.file.url }}"><i class="glyphicon glyphicon-file"></i></a></b></p>
 
  </div>
 </div>

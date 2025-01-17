@@ -10,14 +10,15 @@ permalink: /publications/
 
 <div style="width:90%; text-align:justify"></div>
 
-<img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
-
-
 <br>
-
 
 ## Publications
 
+<br>
+
+<img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
+
+<br>
 
 <div style="text-align:justify" markdown="1">
 
@@ -136,7 +137,11 @@ permalink: /publications/
 
 <br>
 
+<div style="width:50%; text-align:justify">
+
 <img src="{{site.baseurl}}/images/pubpic/cover_book.png" alt="" />
+
+</div>
 
 <ol reversed>
 

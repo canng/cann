@@ -10,11 +10,7 @@ permalink: /publications/
 
 <div style="width:90%; text-align:justify"></div>
 
-<br>
-
 ## Publications
-
-<br>
 
 <br>
 
@@ -22,7 +18,6 @@ permalink: /publications/
 
 <p style="font-size: 18px"><i>For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></i></p>
 
-<br>
 <br>
 
 {% assign number_printed = 0 %}
@@ -35,17 +30,15 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-5 clearfix">
  <div class="well">
  <h4 style="font-size:18px"><b>{{ publi.title }}</b></h4>
  
  <p style="font-size:16px"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" />{{ publi.description }}</p>
 
-  <p ><em>{{ publi.authors }}</em></p>
+  <p style="font-size:15px"><em>{{ publi.authors }}</em></p>.
   
-  <p style="font-size:15px">{{ publi.journal }} </p>
-  
-  <p style="font-size:15px"><b>DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </b></p>
+  <p style="font-size:15px">{{ publi.journal }} DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
 
  </div>
 </div>

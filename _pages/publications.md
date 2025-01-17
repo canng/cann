@@ -55,22 +55,20 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
- <h4 style="font-size:20px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
+ <h4 style="font-size:18px"><b>{{ publi.title }}</b></h4>
  
- <p><b><a href="{{ publi.link.url }}">
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" />
- </a></b></p> 
+ <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b>
+ 
+  </p> <p style="font-size:16px">{{ publi.description }}</p>
 
-  <p style="text-align:justify; font-size:16px">{{ publi.description }}</p>
+  <p style="font-size:16px"><em>{{ publi.authors }}</em></p>
   
-  <p><em>{{ publi.authors }}</em></p>
-  
-  <p style="font-size:16px"><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
-  <p class="text-danger"><b> {{ publi.news1 }}</b></p>
-  
-  <p> {{ publi.news2 }}</p>
+  <p style="font-size:16px"><b><a href="{{ publi.link.url }}">{{ publi.doi.display }}</a></b></p>
+
+  <p style="font-size:16px"><i class="glyphicon glyphicon-file"></i><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
+
  </div>
 </div>
 

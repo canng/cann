@@ -154,19 +154,11 @@ permalink: /publications/
 
 </ol>
 
-<br>
 
 <hr>
  
-<br>
 
 <h2>Book chapters</h2>
-
-<br>
-
-<p><img src="{{site.baseurl}}/images/pubpic/cover_book.png" alt="" class="img-responsive" width="50%" style="float: center"/></p>
-
-class="img-responsive" width="50%" style="float: left"
 
 <ol reversed>
 

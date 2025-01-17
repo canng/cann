@@ -16,8 +16,6 @@ permalink: /publications/
 
 <br>
 
-<img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
-
 <br>
 
 <div style="text-align:justify" markdown="1">
@@ -25,13 +23,10 @@ permalink: /publications/
 <p style="font-size: 18px"><i>For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></i></p>
 
 <br>
-
-
-
 <br>
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publication_list %}
+{% for publi in site.data.featurepub %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -44,15 +39,13 @@ permalink: /publications/
  <div class="well">
  <h4 style="font-size:18px"><b>{{ publi.title }}</b></h4>
  
- <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b>
- 
-  </p> <p style="font-size:16px">{{ publi.description }}</p>
+ <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b>{{ publi.description }}
 
   <p style="font-size:16px"><em>{{ publi.authors }}</em></p>
   
+  <p style="font-size:16px">{{ publi.journal }} </p>
+  
   <p style="font-size:16px"><b>DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </b></p>
-
-  <p style="font-size:16px"><b><a href="{{ publi.file.url }}"><i class="glyphicon glyphicon-file"></i></a></b></p>
 
  </div>
 </div>
@@ -72,10 +65,6 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-<hr>
-
 
 
 </div>
@@ -178,11 +167,7 @@ permalink: /publications/
 
 <br>
 
-<div style="width:50%; text-align:justify">
-
-<img src="{{site.baseurl}}/images/pubpic/cover_book.png" alt="" />
-
-</div>
+<div style="width:50%; text-align:center"><img src="{{site.baseurl}}/images/pubpic/cover_book.png" alt="" /></div>
 
 <ol reversed>
 

@@ -35,7 +35,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-9 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
  <p style="font-size:17px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />

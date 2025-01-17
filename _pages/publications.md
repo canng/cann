@@ -129,8 +129,14 @@ permalink: /publications/
 <br>
 
 <hr>
-  
+ 
+<br>
+
 <h2>Book chapters</h2>
+
+<br>
+
+<img src="{{site.baseurl}}/images/pubpic/cover_book.png" alt="" />
 
 <ol reversed>
 

@@ -1,6 +1,16 @@
 
+- title: "A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8"
+  image: baresoil_index_mbi.png
+  description: We proposed a novel bare soil spectral index (called MBI - Modified Bare Soil Index) to distinguish barren land urban features for Landsat imagery and similar sensors.
+  authors: Nguyen, C.T., Chidthaisong, A., Diem, P.K., Huo, L.
+  journal: Land (10), 2021
+  doi:
+    url: https://doi.org/10.3390/land10030231
+    display: 10.3390/land10030231
+  highlight: 1
+
 - title: "How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia"
-  image: urban_environment.jpg
+  image: hcm_bkk.jpg
   description: A comprehensive comparison between Ho Chi Minh city and Bangkok in many aspects of built-up and green space revolutions, climate changes, and surface urban heat island effect.
   authors: Nguyen, C. T., Chidthaisong, A., Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H.
   journal: Sustainable Cities and Society (82), 2022
@@ -9,16 +19,15 @@
     display: 10.1016/j.scs.2022.103882
   highlight: 1
 
-- title: "A Modified Bare Soil Index to Identify Bare Land Features during Agricultural Fallow-Period in Southeast Asia Using Landsat 8"
-  image: urban_environment.jpg
-  description: We proposed a novel bare soil spectral index to distinguish barren land urban features for Landsat imagery and similar sensors.
-  authors: Nguyen, C.T., Chidthaisong, A., Diem, P.K., Huo, L.
-  journal: Land (10), 2021
+- title: "Ecosystem Services Provided by Urban Green Spaces in Bangkok Metropolis: Public Awareness and Planning Implications"
+  image: ess_ugs.png
+  description: A qualitative anaysis of public awareness regarding ecosystem services provided by urban green spaces ranging from provision-supporting-regulating-cultural- and dis-services.
+  authors: Nguyen, C. T.+, & Chidthaisong A.
+  journal: Urban Ecosystems (27), 2023
   doi:
-    url: https://doi.org/10.3390/land10030231
-    display: 10.3390/land10030231
+    url: https://doi.org/10.1007/s11252-023-01482-1 
+    display: 10.1007/s11252-023-01482-1 
   highlight: 1
-
 
 
 

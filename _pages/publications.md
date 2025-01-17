@@ -39,9 +39,7 @@ permalink: /publications/
  <div class="well">
  <h4 style="font-size:18px"><b>{{ publi.title }}</b></h4>
  
- <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b>
-
-  <p style="font-size:16px"><em>{{ publi.description }}</em></p>
+ <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b><p style="font-size:16px"><em>{{ publi.description }}</em></p>
 
   <p style="font-size:16px"><em>{{ publi.authors }}</em></p>
   

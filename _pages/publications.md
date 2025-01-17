@@ -32,8 +32,8 @@ permalink: /publications/
 
 <div class="col-sm-5 clearfix">
  <div class="well">
- <p style="font-size:18px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+ <p style="font-size:17px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
  <p style="font-size:16px; text-align: left">{{ publi.description }}</p>
  <p style="font-size:15px; text-align: left"><em>{{ publi.authors }}</em></p>  
  <p style="font-size:15px; text-align: left">{{ publi.journal }} </p>  

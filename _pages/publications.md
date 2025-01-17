@@ -55,7 +55,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-4 clearfix">
  <div class="well">
  <h4 style="font-size:20px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
  

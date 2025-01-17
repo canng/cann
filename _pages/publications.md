@@ -60,7 +60,7 @@ permalink: /publications/
  <h4 style="font-size:20px"><b><a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a></b></h4>
  
  <p><b><a href="{{ publi.link.url }}">
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="40%" />
  </a></b></p> 
 
   <p style="text-align:justify; font-size:16px">{{ publi.description }}</p>

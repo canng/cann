@@ -38,7 +38,9 @@ permalink: /publications/
 
   <p style="font-size:15px"><em>{{ publi.authors }}</em></p>.
   
-  <p style="font-size:15px">{{ publi.journal }} DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
+  <p style="font-size:15px">{{ publi.journal }} </p>
+  
+  <p style="font-size:15px">DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
 
  </div>
 </div>

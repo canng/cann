@@ -12,6 +12,19 @@ permalink: /publications/
 
 ## Publications
 
+<div style="max-width: 1000px; margin: 0 auto;">
+
+<table width="1000">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
+        </td>
+    </tr>
+</table>
+
+<br>
+
+
 <div style="text-align:justify" markdown="1">
 
 <p style="font-size: 18px"><i>For a complete list and updated publications, go to: <a href="https://scholar.google.com/citations?hl=vi&user=xnzuZiAAAAAJ&view_op=list_works&authuser=3&sortby=pubdate"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></i></p>

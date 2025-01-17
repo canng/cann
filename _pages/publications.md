@@ -39,13 +39,13 @@ permalink: /publications/
  <div class="well">
  <h4 style="font-size:18px"><b>{{ publi.title }}</b></h4>
  
- <p><b><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" /></b><p><em>{{ publi.description }}</em></p>
+ <p style="font-size:16px"><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" />{{ publi.description }}</p>
 
-  <p style="font-size:16px"><em>{{ publi.authors }}</em></p>
+  <p ><em>{{ publi.authors }}</em></p>
   
-  <p style="font-size:16px">{{ publi.journal }} </p>
+  <p style="font-size:15px">{{ publi.journal }} </p>
   
-  <p style="font-size:16px"><b>DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </b></p>
+  <p style="font-size:15px"><b>DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </b></p>
 
  </div>
 </div>

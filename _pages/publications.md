@@ -32,12 +32,12 @@ permalink: /publications/
 
 <div class="col-sm-5 clearfix">
  <div class="well">
- <pubtit>{{ publi.title }}</pubtit>
+ <p style="font-size:18px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
- <p>{{ publi.description }}</p>
- <p style="font-size:15px"><em>{{ publi.authors }}</em></p>  
- <p style="font-size:15px">{{ publi.journal }} </p>  
- <p style="font-size:15px">DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
+ <p style="font-size:16px; text-align: left">{{ publi.description }}</p>
+ <p style="font-size:15px; text-align: left"><em>{{ publi.authors }}</em></p>  
+ <p style="font-size:15px; text-align: left">{{ publi.journal }} </p>  
+ <p style="font-size:15px; text-align: left">DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
 
  </div>
 </div>

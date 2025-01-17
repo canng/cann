@@ -3,7 +3,7 @@ title: "Cann | Publications"
 layout: piclay
 excerpt: "Publications"
 sitemap: false
-permalink: /publication/
+permalink: /publications/
 ---
 
 

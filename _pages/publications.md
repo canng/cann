@@ -10,19 +10,13 @@ permalink: /publications/
 
 <div style="width:90%; text-align:justify"></div>
 
-## Publications
+<img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
 
-<div style="max-width: 1000px; margin: 0 auto;">
-
-<table width="1000">
-    <tr>
-        <td style="text-align: center;">
-            <img src="{{site.baseurl}}/images/pubpic/cover_publication.png" alt="" />
-        </td>
-    </tr>
-</table>
 
 <br>
+
+
+## Publications
 
 
 <div style="text-align:justify" markdown="1">

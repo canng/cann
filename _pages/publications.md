@@ -40,7 +40,6 @@ permalink: /publications/
  <p style="font-size:17px; text-align: left"><pubtit>{{ publi.title }}</pubtit></p>
  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
  <p style="font-size:16px; text-align: left">{{ publi.description }}</p>
- <p style="font-size:15px; text-align: left"><em>{{ publi.authors }}</em></p>  
  <p style="font-size:15px; text-align: left"><b>{{ publi.journal }}</b></p>  
  <p style="font-size:15px; text-align: left">DOI: <a href="{{ publi.doi.url }}">{{ publi.doi.display }}</a> </p>
 

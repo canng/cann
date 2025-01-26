@@ -22,25 +22,25 @@ date: 2024-02-01
 <div class="col-sm-6">
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_01.jpg" class="img-responsive" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_01.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Methodological framework illustrates data sources, principal analyses, and outputs of this research
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_02.jpg" class="img-responsive" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_02.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Daytime thermal comfort categories were classified based on MTHI over months in 2017
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_03.jpg" class="img-responsive" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_03.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Thermal vulnerability map over the BMA from synthesized data. Contour lines zoning the core regions for each thermal vulnerability class
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_04.jpg" class="img-responsive" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_04.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Relationships between PD, BD, and Adjusted Electricity Use Index (AEUI). Dot size is proportional to the magnitude of AEUI (Unit: kWh/m3/month). Three groups from the bottom-left correspond to a gradual increase in PD and BD. The lower the AEUI value, the higher the electricity efficiency
 </figcaption>
 </figure>

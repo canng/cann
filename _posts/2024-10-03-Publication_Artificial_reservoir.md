@@ -21,22 +21,22 @@ date: 2024-10-03
 
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-12">
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_01.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_01.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>LULC maps classified from Landsat images from 1990 to 2020, depicting spatial distribution and expansion over time
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_02.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_02.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Sankey plot shows LULC structures in each year and LULC transitions between categories over the periods, highlighting conversion between and within LULC types
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_03.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Artificial_reservoir_03.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Bivariate maps illustrate local R-squared and regression coefficients of proximity to water, presenting relationships between distance to reservoirs and changes in (A) agricultural proportion and (B) vegetation health
 </figcaption>
 </figure>

@@ -8,7 +8,7 @@ date: 2024-02-01
 
 <div style="text-align:justify; font-size:20px;">
 
-> <p style="font-size:18px"> <b>Nguyen, C. T.+</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 33, 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
+> <p style="font-size:20px"> <b>Nguyen, C. T.+</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 33, 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
 
 <br>
 
@@ -24,25 +24,25 @@ date: 2024-02-01
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_01.jpg" class="img-responsive" width="800px" height="auto" />
-<figcaption>Flowchart
+<figcaption>Methodological framework illustrates data sources, principal analyses, and outputs of this research
 </figcaption>
 </figure>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_02.jpg" class="img-responsive" width="800px" height="auto" />
-<figcaption>Monthly outdoor thermal comfort
+<figcaption>Daytime thermal comfort categories were classified based on MTHI over months in 2017
 </figcaption>
 </figure>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_03.jpg" class="img-responsive" width="800px" height="auto" />
-<figcaption>Thermal vulnerability map
+<figcaption>Thermal vulnerability map over the BMA from synthesized data. Contour lines zoning the core regions for each thermal vulnerability class
 </figcaption>
 </figure>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_04.jpg" class="img-responsive" width="800px" height="auto" />
-<figcaption>Relationships between PD, BD, and AEUI
+<figcaption>Relationships between PD, BD, and Adjusted Electricity Use Index (AEUI). Dot size is proportional to the magnitude of AEUI (Unit: kWh/m3/month). Three groups from the bottom-left correspond to a gradual increase in PD and BD. The lower the AEUI value, the higher the electricity efficiency
 </figcaption>
 </figure>
 

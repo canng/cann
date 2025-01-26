@@ -17,10 +17,29 @@ Outdoor thermal comfort negatively influences urban residents’ health and incr
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-12">
+
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/CGIAR_SRP_map.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_01.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption>_</figcaption>
 </figure>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_02.jpg" class="img-responsive" width="1000px" height="auto" />
+<figcaption>_</figcaption>
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_03.jpg" class="img-responsive" width="1000px" height="auto" />
+<figcaption>_</figcaption>
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2024/Thermal_comfort_04.jpg" class="img-responsive" width="1000px" height="auto" />
+<figcaption>_</figcaption>
+</figure>
+
+</div>
+</div>
+</div>
 
 </div>

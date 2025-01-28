@@ -91,13 +91,14 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 <br>
 
-#### MDPI  (5 Journals)
+#### MDPI  (6 Journals)
 
 (1) <a href="https://www.mdpi.com/journal/remotesensing">Remote Sensing</a>; 
 (2) <a href="https://www.mdpi.com/journal/sustainability">Sustainability</a>; 
 (3) <a href="https://www.mdpi.com/journal/atmosphere">Atmosphere</a>; 
 (4) <a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>; 
-(5) <a href="https://www.mdpi.com/journal/sensors">Sensors</a>
+(5) <a href="https://www.mdpi.com/journal/sensors">Sensors</a>;
+(6) <a href="https://www.mdpi.com/journal/land">Land</a>
 
 <br>
 

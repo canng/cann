@@ -12,6 +12,14 @@ date: 2025-03-10
 
 <br>
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/Soil_texture_UHI_cover.jpg" class="img-responsive" width="1000px" height="auto" />
+<figcaption> 
+</figcaption>
+</figure>
+
+<br>
+
 > <p style="font-size:20px"> Urban Heat Island (UHI) is one of the most concerning problems in urban, which is not only associated with surface attributes such as impervious surface ratio, green spaces, and ventilation but also controlled by near-surface characteristics. This chapter investigated the relationship between soil textures and land surface temperature (LST) and simulated future land use, land cover, and LST under the impacts of applying soil textures in urban planning. The highest surface temperature in sandy and mixed soils regardless of urban types (approximately 39.3 °C). The most moderate temperatures are in clay soil (36.5 °C) and loamy soil (35.5 °C) due to lower thermal conductivity and higher water availability compared to that in clay soils. Applying soil textures in urban planning will redistribute future urban areas to avoid urban development on sandy soil compared to the “business as usual” scenario. Therefore, it could significantly mitigate the UHI in coastal areas by 0.5 to 0.75 °C. This chapter provides basic background information on the urban thermal properties of soil textures, which serves as an important basis for planning to minimize future heat islands.</p> 
 
 
@@ -20,14 +28,6 @@ date: 2025-03-10
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-12">
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/Soil_texture_UHI_cover.jpg" class="img-responsive" width="800px" height="auto" />
-<figcaption> 
-</figcaption>
-</figure>
-
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/Soil_texture_UHI_Picture1.jpg" class="img-responsive" width="800px" height="auto" />

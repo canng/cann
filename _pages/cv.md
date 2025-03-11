@@ -22,18 +22,6 @@ permalink: /cv/
 
 <br>
 
-<div style="text-align:left" markdown="1">
-<h2 style="background-color:#00467f; color:#FFFFFF"> </h2>
-</div>
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/_profile_wordcloud.jpg" class="img-responsive" width="100%" alt="Cann"/>
-</div>
-<div class="col-sm-8" >
-
 ### Dr. Can T. Nguyen, Ph.D. 
 
 #### Researcher 
@@ -47,7 +35,7 @@ permalink: /cv/
 
 <i class="glyphicon glyphicon-paperclip"></i><a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> Full Curriculum Vitae</a> <br>
 
-<i class="glyphicon glyphicon-envelope"></i> @<can.nguyen@czp.cuni.cz>   @<trongcan.ng@gmail.com> <br>
+<i class="glyphicon glyphicon-envelope"></i> @<can.nguyen[at]czp.cuni.cz>   @<trongcan.ng[at]gmail.com> <br>
 
 <span class="glyphicon glyphicon-phone-alt"></span> (+420) 773-705-812;   (+84) 382-455-945 <br>
 

@@ -20,6 +20,20 @@ permalink: /cv/
 </div>
 <div class="col-sm-8" >
 
+<br>
+
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#00467f; color:#FFFFFF"> </h2>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/_profile_wordcloud.jpg" class="img-responsive" width="100%" alt="Cann"/>
+</div>
+<div class="col-sm-8" >
+
 ### Dr. Can T. Nguyen, Ph.D. 
 
 #### Researcher 

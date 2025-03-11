@@ -161,7 +161,7 @@ permalink: /publications/
 
 <ol reversed>
 
-<li><b>Nguyen, C.T.+</b>, Noszczyk, T., & Iabchoon, S., 2025. Soil Textures and Urban Heat: Cooling Planning Strategies. In: Gupta, M. (ed) Remote Sensing for Geophysicists. CRC Press, Taylor & Francis Group, Boca Raton, FL, USA. ISBN: 9781032778921. <a href="https://www.routledge.com/Remote-Sensing-for-Geophysicists/Gupta/p/book/9781032778921">[eBook ISBN: 9781003485278]</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_Chapter31_Soil_texture_urban_heat.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
+<li><b>Nguyen, C.T.+</b>, Noszczyk, T., & Iabchoon, S., 2025. Soil Textures and Urban Heat: Cooling Planning Strategies. In: Gupta, M. (ed) <a href="https://www.routledge.com/Remote-Sensing-for-Geophysicists/Gupta/p/book/9781032778921">Remote Sensing for Geophysicists</a>. CRC Press, Taylor & Francis Group, Boca Raton, FL, USA. ISBN: 9781032778921 <a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_Chapter31_Soil_texture_urban_heat.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 
 <li><b>Nguyen, C.T.+</b>, Chidthaisong, A., Kaewthongrach, R., Marome, W., 2023. Urban Thermal Environment Under Urban Expansion and Climate Change: A Regional Perspective from Southeast Asian Big Cities. In: Cheshmehzangi, A., He, BJ., Sharifi, A., Matzarakis, A. (eds) Climate Change and Cooling Cities. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-99-3675-5_9">10.1007/978-981-99-3675-5_9</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_chapter_urban_heat_SEA.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 

@@ -49,7 +49,9 @@ permalink: /review/
 
 #### **Membership**
 
-International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a>
+International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a><br>
+European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a>
+
 <br>
 <br>
 
@@ -57,7 +59,7 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 
 #### **Peer Reviewer for**
 
-#### Elsevier  (09 Journals)
+#### Elsevier  (10 Journals)
 
 (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
 (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
@@ -68,6 +70,7 @@ International Association for Urban Climate<a href="https://urban-climate.org/">
 (7) <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>; 
 (8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
 (9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
+(10) <a href="Urban Forestry & Urban Greening">Urban Forestry & Urban Greening</a>; 
 
 
 <br>

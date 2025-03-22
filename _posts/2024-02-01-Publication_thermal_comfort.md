@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New Publication] Seasonal characteristics of outdoor thermal comfort and residential electricity consumption: A Snapshot in Bangkok Metropolitan Area"
+title: "Seasonal characteristics of outdoor thermal comfort and residential electricity consumption: A Snapshot in Bangkok Metropolitan Area"
 date: 2024-02-01
 ---
 

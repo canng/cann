@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New Publication] Soil Textures and Urban Heat: Cooling Planning Strategies"
+title: "Soil Textures and Urban Heat: Cooling Planning Strategies"
 date: 2025-03-10
 ---
 

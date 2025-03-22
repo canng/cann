@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New Publication] Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone"
+title: "Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone"
 date: 2025-01-02
 ---
 

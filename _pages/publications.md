@@ -84,8 +84,6 @@ permalink: /publications/
 
 <li>Diep, N.T.H., Nguyen, T. N., Diem, P.K., & <b>Nguyen, C. T.+</b>, 2025. Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam. Land. 14 (5, SI: Harnessing the Power of Land Mapping Data for Effective Land Policy Development), 1063 <a href="https://doi.org/10.3390/land14051063">10.3390/land14051063</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_land_LUCC_benefits_tradeoffs.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 
-<li><b>Nguyen, C. T.+</b>, Downes, N. K., Sitthi, A., & Losiri, C., 2025. Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone. Urban Science, 9(1), 11. 
-
 <li><b>Nguyen, C. T.+</b>, Downes, N. K., Sitthi, A., & Losiri, C., 2025. Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone. Urban Science, 9(1), 11. <a href="https://doi.org/10.3390/urbansci9010011">10.3390/urbansci9010011</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_urbansci_LULCC_Habitat_quality_Phu_Quoc.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 
 

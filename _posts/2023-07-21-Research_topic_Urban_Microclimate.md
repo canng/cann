@@ -41,6 +41,8 @@ date: 2023-07-21
 
 ### Urban Heat Islands
 
+* **Nguyen, C.T.+**, Noszczyk, T., & Iabchoon, S., 2025. Soil Textures and Urban Heat: Cooling Planning Strategies. In: Gupta, M. (ed) <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003485278-40/soil-textures-urban-heat-trong-nguyen-tomasz-noszczyk-sanwit-iabchoon">Remote Sensing for Geophysicists</a>. CRC Press, Taylor & Francis Group, Boca Raton, FL, USA. ISBN: 9781032778921 <a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_Chapter31_Soil_texture_urban_heat.pdf">  <i class="glyphicon glyphicon-file"></i></a>
+
 * **Nguyen, C. T.+**, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  <i class="glyphicon glyphicon-file"></i></a>  
 
 *  **Nguyen, C.T.+**, Chidthaisong, A.+, Limsakul, A., Varnakovida, P., Ekkawatpanit, C., Diem, P. K., & Diep, N. T. H., 2022. How do disparate urbanization and climate change imprint on urban thermal variations? A comparison between two dynamic cities in Southeast Asia. Sustainable Cities and Society, 82(July 2022), 103882. <a href="https://doi.org/10.1016/j.scs.2022.103882"> 10.1016/j.scs.2022.103882</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2022_SCS_103822_urban_heat_bkk_hcm.pdf">  <i class="glyphicon glyphicon-file"></i></a>  

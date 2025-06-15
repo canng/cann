@@ -82,6 +82,9 @@ permalink: /publications/
 
 <h3>2025 </h3>
 
+<li><b>Nguyen, C. T.+</b>, Diem, K. P.+, Nghia, D. H., Diem, N. K., Diep, N. T. H., Phan, T. N., Minh, V. Q., Quang, N. H., 2025. Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification. Remote Sensing Applications: Society and Environment <a href="https://doi.org/10.1016/j.rsase.2025.101633">10.1016/j.rsase.2025.101633</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
+
+
 <li>Diep, N.T.H., Nguyen, T. N., Diem, P.K., & <b>Nguyen, C. T.+</b>, 2025. Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam. Land. 14 (5, <i>SI: Harnessing the Power of Land Mapping Data for Effective Land Policy Development</i>), 1063 <a href="https://doi.org/10.3390/land14051063">10.3390/land14051063</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_land_LUCC_benefits_tradeoffs.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>
 
 <li><b>Nguyen, C. T.+</b>, Downes, N. K., Sitthi, A., & Losiri, C., 2025. Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone. Urban Science, 9(1), 11. <a href="https://doi.org/10.3390/urbansci9010011">10.3390/urbansci9010011</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_urbansci_LULCC_Habitat_quality_Phu_Quoc.pdf">  <i class="glyphicon glyphicon-file"></i></a></li> <br>

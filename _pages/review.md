@@ -37,7 +37,8 @@ permalink: /review/
 
 #### **Editorial Board Member**
 
-<a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer (<i>from 09/2024</i>)
+<a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer (<i>from 09/2024</i>)<br>
+<a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer</i>
 <br>
 <br>
 
@@ -50,7 +51,10 @@ permalink: /review/
 #### **Membership**
 
 International Association for Urban Climate<a href="https://urban-climate.org/"> (IAUC)</a><br>
-European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a>
+European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a><br>
+Global Land Programme <a href="https://glp.earth/users/trong-can-nguyen"> (GLP) </a><br>
+Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/services/networking/young-es-specialists-yess/"> (YESS)</a>
+
 
 <br>
 <br>
@@ -70,7 +74,8 @@ European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a>
 (7) <a href="https://www.sciencedirect.com/journal/journal-of-urban-management">Journal of Urban Management</a>; 
 (8) <a href="https://www.sciencedirect.com/journal/advances-in-space-research">Advances in Space Research</a>; 
 (9) <a href="https://www.sciencedirect.com/journal/urban-climate">Urban Climate</a>; 
-(10) <a href="Urban Forestry & Urban Greening">Urban Forestry & Urban Greening</a>; 
+(10) <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening">Urban Forestry & Urban Greening</a>; 
+(11) <a href="https://www.sciencedirect.com/journal/environmental-and-sustainability-indicators">Environmental and Sustainability Indicators</a>
 
 
 <br>
@@ -82,7 +87,8 @@ European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a>
 (3) <a href="https://www.nature.com/srep/">Scientific Reports</a>; 
 (4) <a href="https://link.springer.com/journal/41748">Earth Systems and Environment</a>; 
 (5) <a href="https://link.springer.com/journal/10661">Environmental Monitoring and Assessment</a>; 
-(6) <a href="https://link.springer.com/journal/11119">Precision Agriculture</a>  
+(6) <a href="https://link.springer.com/journal/11119">Precision Agriculture</a> 
+(7) <a href="https://link.springer.com/journal/44327">Discover Cities</a>  
 
 <br>
 
@@ -91,6 +97,7 @@ European Geosciences Union<a href="https://www.egu.eu//"> (EGU)</a>
 (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
 (2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>;
 (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
+(3) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
 
 <br>
 

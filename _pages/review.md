@@ -38,7 +38,7 @@ permalink: /review/
 #### **Editorial Board Member**
 
 <a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer (<i>from 09/2024</i>)<br>
-<a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer</i>
+<a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer
 <br>
 <br>
 
@@ -63,7 +63,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 #### **Peer Reviewer for**
 
-#### Elsevier  (10 Journals)
+#### Elsevier  (11 Journals)
 
 (1) <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>; 
 (2) <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>; 
@@ -80,7 +80,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <br>
 
-#### Springer & Springer Nature (6 Journals)
+#### Springer & Springer Nature (7 Journals)
 
 (1) <a href="https://www.springer.com/journal/11356">Environmental Science and Pollution Research</a>; 
 (2) <a href="https://link.springer.com/journal/704">Theoretical and Applied Climatology</a>; 
@@ -92,12 +92,12 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <br>
 
-#### Taylor and Francis  (3 Journals)
+#### Taylor and Francis  (4 Journals)
 
 (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
 (2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>;
 (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
-(3) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
+(4) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
 
 <br>
 

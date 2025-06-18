@@ -29,12 +29,7 @@ permalink: /research_project/
  
  <p><b><a href="{{ publi.link.url }}">
  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="90%" />
- </a></b></p> 
-
-  <p style="text-align:justify; font-size:16px">{{ publi.description }}</p>
-  
-  <p><em>{{ publi.authors }}</em></p>
-  
+ </a></b></p>   
   <p style="font-size:16px"><b><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></b></p>
   <p class="text-danger"><b> {{ publi.news1 }}</b></p>
   

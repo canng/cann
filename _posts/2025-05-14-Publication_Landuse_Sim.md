@@ -30,13 +30,13 @@ date: 2025-05-14
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/landuse_sim_02" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/landuse_sim_02.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>Methodological framework visualizes primary data sources and their roles in historical LULC mapping, future LULC simulation, and assessments.
 </figcaption>
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/landuse_sim_03" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/landuse_sim_03.jpg" class="img-responsive" width="800px" height="auto" />
 <figcaption>LULCC probability maps highlight susceptible areas to LULCC in 2030 scenarios and combined all scenarios compared to the LULC status in 2020. Map values range from 0 to 1, meaning low to high change probability.
 </figcaption>
 </figure>

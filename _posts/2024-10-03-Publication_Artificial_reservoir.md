@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New paper] Land use changes along with artificial reservoirs on Environmental Monitoring and Assessment"
+title: "[New paper] Land use changes along with artificial reservoirs on EMA"
 date: 2024-10-03
 ---
 

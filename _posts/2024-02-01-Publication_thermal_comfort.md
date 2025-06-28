@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New paper] Outdoor thermal comfort on Remote Sensing Applications: Society and Environment"
+title: "[New paper] Outdoor thermal comfort on RSASE"
 date: 2024-02-01
 ---
 

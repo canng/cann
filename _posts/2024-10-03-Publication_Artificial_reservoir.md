@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "[New paper] Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction"
+title: "[New paper] Land use changes along with artificial reservoirs on Environmental Monitoring and Assessment"
 date: 2024-10-03
 ---
 
 <hr>
 
 <div style="text-align:justify; font-size:20px;">
+
+<h2>Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction</h2>
 
 > <p style="font-size:20px"> <b>Nguyen, C. T.+</b>, Loc, T. T., & Tien, P. D., 2024. Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction. Environmental Monitoring and Assessment. 196 (<i>SI: Agricultural Water Management for a Sustainable Future: Technologies and Strategies</i>), 1009 <a href="https://doi.org/10.1007/s10661-024-13151-7">10.1007/s10661-024-13151-7</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2024_EMA_LUCCC_ESS_Rayong.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
 

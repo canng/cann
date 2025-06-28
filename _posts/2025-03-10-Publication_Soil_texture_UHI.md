@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Soil Textures and Urban Heat: Cooling Planning Strategies"
+title: "Soil Textures and Urban Heat"
 date: 2025-03-10
 ---
 
 <hr>
 
 <div style="text-align:justify; font-size:20px;">
+
+## Soil Textures and Urban Heat: Cooling Planning Strategies
 
 > <p style="font-size:20px"> <b>Nguyen, C.T.+</b>, Noszczyk, T., & Iabchoon, S., 2025. Soil Textures and Urban Heat: Cooling Planning Strategies. In: Gupta, M. (ed) <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003485278-40/soil-textures-urban-heat-trong-nguyen-tomasz-noszczyk-sanwit-iabchoon">Remote Sensing for Geophysicists</a>. CRC Press, Taylor & Francis Group, Boca Raton, FL, USA. ISBN: 9781032778921 <a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_Chapter31_Soil_texture_urban_heat.pdf">  <i class="glyphicon glyphicon-file"></i></a> <br></p> 
 

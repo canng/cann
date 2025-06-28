@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "[New paper] Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone"
+title: "[New paper] Land use transformations and habitat quality on Urban Science"
 date: 2025-01-02
 ---
 
 <hr>
 
 <div style="text-align:justify; font-size:20px;">
+
+
+## Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone
 
 > <p style="font-size:20px"> <b>Nguyen, C. T.+</b>, Downes, N. K., Sitthi, A., & Losiri, C., 2025. Tourism-Induced Land Use Transformations, Urbanisation, and Habitat Degradation in the Phu Quoc Special Economic Zone. Urban Science, 9(1), 11. <a href="https://doi.org/10.3390/urbansci9010011">10.3390/urbansci9010011</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_urbansci_LULCC_Habitat_quality_Phu_Quoc.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
 

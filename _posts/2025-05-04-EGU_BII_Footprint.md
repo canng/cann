@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Poster] Poster presentation on BII Footprints appropriation to Agriculture at EGU25"
-date: 2025-06-17
+date: 2025-05-04
 ---
 
 <hr>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New Chaper] Simulate land use change under scenarios on Land"
+title: "[New paper] Simulate land use change under scenarios on Land"
 date: 2025-05-14
 ---
 

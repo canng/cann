@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New Chaper] Soil Textures and Urban Heat"
+title: "[New Chaper] Simulate land use change under scenarios on Land"
 date: 2025-05-14
 ---
 
@@ -10,17 +10,7 @@ date: 2025-05-14
 
 ## Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam
 
-> <p style="font-size:20px"> <b>Nguyen, C.T.+</b>, Noszczyk, T., & Iabchoon, S., 2025. Soil Textures and Urban Heat: Cooling Planning Strategies. In: Gupta, M. (ed) <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003485278-40/soil-textures-urban-heat-trong-nguyen-tomasz-noszczyk-sanwit-iabchoon">Remote Sensing for Geophysicists</a>. CRC Press, Taylor & Francis Group, Boca Raton, FL, USA. ISBN: 9781032778921 <a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_Chapter31_Soil_texture_urban_heat.pdf">  <i class="glyphicon glyphicon-file"></i></a> <br></p> 
-
 > <p style="font-size:20px">Diep, N.T.H., Nguyen, T. N., Diem, P.K., & <b>Nguyen, C. T.+</b>, 2025. Benefits and Trade-Offs from Land Use and Land Cover Changes Under Different Scenarios in the Coastal Delta of Vietnam. Land. 14 (5, <i>SI: Harnessing the Power of Land Mapping Data for Effective Land Policy Development</i>), 1063 <a href="https://doi.org/10.3390/land14051063">10.3390/land14051063</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2025_land_LUCC_benefits_tradeoffs.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> <br>
-
-<br>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/Soil_texture_UHI_cover.jpg" class="img-responsive" width="1000px" height="auto" />
-<figcaption> 
-</figcaption>
-</figure>
 
 <br>
 

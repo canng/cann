@@ -29,7 +29,7 @@ date: 2025-05-04
 <div class="col-sm-12">
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/EGU25_BII_Footprint.jpg" class="img-responsive" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/2025/EGU25_BII_Footprint.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption>
 </figcaption>
 </figure>

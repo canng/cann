@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "[Poster] Poster presentation on BII Footprints appropriation to Agriculture at EGU25"
+title: "[Poster] Poster presentation on BII Footprints Appropriation to Agriculture at EGU25"
 date: 2025-05-04
 ---
 
 <hr>
 
-<div style="text-align:justify; font-size:20px;">
-
 ## Global impacts of agricultural production on terrestrial biodiversity: Quantifying biodiversity losses and transboundary effects
+
+<div style="text-align:justify; font-size:20px;">
 
 > <p style="font-size:20px"><b>Nguyen, T. C.</b>, Vačkářová, D., and Weinzettel, J.: Global impacts of agricultural production on terrestrial biodiversity: Quantifying biodiversity losses and transboundary effects, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-10691, <a href="https://doi.org/10.5194/egusphere-egu25-10691">10.5194/egusphere-egu25-10691</a>, 2025.
 

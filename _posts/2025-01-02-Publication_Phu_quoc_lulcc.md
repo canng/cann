@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[New paper] Land use transformations and habitat quality on URBAN SCIENCE"
+title: "[New paper] Land use Transformations and Habitat Quality on URBAN SCIENCE"
 date: 2025-01-02
 ---
 

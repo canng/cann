@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction"
+title: "[New paper] Land use, land cover changes and expansion of artificial reservoirs in Eastern Thailand: Implications for agriculture and vegetation drought reduction"
 date: 2024-10-03
 ---
 

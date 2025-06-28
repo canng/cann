@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote Sensing & Geoinformatic Applications"
+title: "[Research Topic] Remote Sensing & Geoinformatic Applications"
 date: 2023-07-21
 ---
 

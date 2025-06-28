@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "Seasonal characteristics of outdoor thermal comfort and residential electricity consumption: A Snapshot in Bangkok Metropolitan Area"
+title: "[New paper] Outdoor thermal comfort on Remote Sensing Applications: Society and Environment"
 date: 2024-02-01
 ---
 
 <hr>
 
 <div style="text-align:justify; font-size:20px;">
+
+
+<h2>Seasonal characteristics of outdoor thermal comfort and residential electricity consumption: A Snapshot in Bangkok Metropolitan Area</h2>
+
 
 > <p style="font-size:20px"> <b>Nguyen, C. T.+</b>, Nguyen H., Sakti, A. D., 2024. Seasonal Characteristics of Outdoor Thermal Comfort and Residential Electricity Consumption: A Snapshot in Bangkok Metropolitan Area. Remote Sensing Applications: Society and Environment. 33, 101106. <a href="https://doi.org/10.1016/j.rsase.2023.101106">10.1016/j.rsase.2023.101106</a><a href="{{ site.url }}{{ site.baseurl }}/assets/Article_archive/2023_RSASE_101106_Thermal_comfort.pdf">  <i class="glyphicon glyphicon-file"></i></a></p> 
 

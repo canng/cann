@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "CGIAR: Securing the food system of Asian mega-deltas for Climate and Livelihood resilience"
+title: "[Project] CGIAR: Securing Food system of Asian Mega-deltas"
 date: 2024-01-01
 ---
 
+## CGIAR: Securing the food system of Asian mega-deltas for Climate and Livelihood resilience
 
+<br>
 
 <div class="container-fluid">
 <div class="row">

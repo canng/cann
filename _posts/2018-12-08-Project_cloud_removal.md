@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Solution for Cloud removal on MODIS time to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam"
+title: "[Project] Cloud removal on MODIS time series"
 date: 2018-12-08
 ---
+
+## Solution for Cloud removal on MODIS time series to Assess Variations of Rice crop Structures in the Mekong Delta region, Vietnam
+
+<br>
 
 
 <div class="container-fluid">

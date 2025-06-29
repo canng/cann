@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: "[New chapter] Soil Textures and Urban Heat on Taylor & Francis"
 date: 2025-03-10
 ---

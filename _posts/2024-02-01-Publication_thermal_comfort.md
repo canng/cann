@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: "[New paper] Outdoor Thermal Comfort on RSASE"
 date: 2024-02-01
 ---

@@ -11,16 +11,17 @@ permalink: /
 <div class="container-fluid">
 
 <div markdown="0" id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2500" data-pause="hover">
+
+
 <!-- Menu -->
 <ol class="carousel-indicators">
 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 <li data-target="#myCarousel" data-slide-to="1"></li>
 <li data-target="#myCarousel" data-slide-to="2"></li>
 <li data-target="#myCarousel" data-slide-to="3"></li>
-<li data-target="#myCarousel" data-slide-to="4"></li>
-<li data-target="#myCarousel" data-slide-to="5"></li>
-<li data-target="#myCarousel" data-slide-to="6"></li>
 </ol>
+
+
 <!-- Items -->
 <div class="carousel-inner" role="listbox" markdown="0">
 <div class="item active">
@@ -35,15 +36,9 @@ permalink: /
 <div class="item">
 <img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_04.jpg" class="img-responsive" alt="Slide 4" />
 </div>
-<div class="item">
-<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_06.jpg" class="img-responsive" alt="Slide 4" />
-</div>
-<div class="item">
-<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_07.jpg" class="img-responsive" alt="Slide 4" />
-</div>
-<div class="item">
-<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_08.jpg" class="img-responsive" alt="Slide 4" />
-</div>
+
+
+
 
 </div>
 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

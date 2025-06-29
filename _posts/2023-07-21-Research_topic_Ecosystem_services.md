@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: "[Research Topic] Ecosystem Services"
 date: 2023-07-21
 ---

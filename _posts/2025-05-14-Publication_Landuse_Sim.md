@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publications
 title: "[New paper] Simulate Land use Changes under Scenarios on LAND"
 date: 2025-05-14
 ---

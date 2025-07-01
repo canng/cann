@@ -37,9 +37,8 @@ permalink: /
 <div class="item">
 <img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_04.jpg" class="img-responsive" alt="Slide 4" />
 </div>
-
 <div class="item">
-<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_05.jpg" class="img-responsive" alt="Slide 5" />
+<img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_05.jpg" class="img-responsive" alt="Slide 5" />
 </div>
 
 

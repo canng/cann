@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "📢[News] Editing a Sustainability Special Issues on Designing Resilient Cities"
+title: "📢 Editing a Sustainability Special Issues on Designing Resilient Cities"
 date: 2025-07-01
 ---
 

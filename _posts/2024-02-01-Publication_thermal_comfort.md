@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[New paper] Outdoor Thermal Comfort on RSASE"
+title: "📰 Outdoor Thermal Comfort on RSASE"
 date: 2024-02-01
 ---
 

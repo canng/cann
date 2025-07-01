@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[New paper] Land use Changes along with Artificial Reservoirs on EMA"
+title: "📰 Land use Changes along with Artificial Reservoirs on EMA"
 date: 2024-10-03
 ---
 

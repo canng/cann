@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[New paper] Land use Transformations and Habitat Quality on URBAN SCIENCE"
+title: "📰 Land use Transformations and Habitat Quality on URBAN SCIENCE"
 date: 2025-01-02
 ---
 

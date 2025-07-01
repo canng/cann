@@ -12,7 +12,7 @@ date: 2025-07-01
 
 <br>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/SI_sustainability_logo.jpg" class="img-responsive" width="100px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/SI_sustainability_logo.jpg" class="img-responsive" width="300px" height="auto" />
 
 </figure>
 

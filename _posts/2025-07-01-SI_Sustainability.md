@@ -11,6 +11,10 @@ date: 2025-07-01
 ## Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability
 
 <br>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/SI_sustainability_logo.jpg" class="img-responsive" width="100px" height="auto" />
+
+</figure>
 
 <p style="font-size:20px"> 
 

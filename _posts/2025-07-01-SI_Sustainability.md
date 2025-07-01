@@ -20,7 +20,7 @@ date: 2025-07-01
 
 </p> 
 
-🌿 I am currently editing a Special Issue for Sustainability on **"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"**, together with:
+I am currently editing a Special Issue for Sustainability on **"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"**, together with:
 
 🔹 Dr. Nigel K. Downes (Can Tho University, Vietnam)
 
@@ -32,17 +32,17 @@ We welcome contributions on green-blue infrastructure, nature-based solutions, u
 
 <br>
 
-You can find additional details on the following website:
+ℹ️ You can find additional details on the following website:
 
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752</a>
 
 <br>
 
-Deadline for submissions: **30 June 2026**.
+📅 Deadline for submissions: **30 June 2026**.
 
 <br>
 
-If you’re working on projects or research aligned with these themes, consider submitting your work.
+❓If you’re working on projects or research aligned with these themes, consider submitting your work.
 
 <br>
 📩 Feel free to reach out if you wish to discuss ideas before submission.

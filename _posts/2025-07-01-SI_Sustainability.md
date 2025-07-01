@@ -52,7 +52,7 @@ If you’re working on projects or research aligned with these themes, consider 
 <div class="col-sm-12">
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025/SI_sustainability.jpg" class="img-responsive" width="1000px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/SI_sustainability.jpg" class="img-responsive" width="1000px" height="auto" />
 <figcaption>
 </figcaption>
 </figure>

@@ -14,11 +14,11 @@ date: 2025-07-01
 
 <p style="font-size:20px"> 
 
-
 </p> 
-🌿 I am currently editing a Special Issue for Sustainability on Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability, together with:
 
-🔹 Dr. Nigel Downes (Can Tho University, Vietnam)
+🌿 I am currently editing a Special Issue for Sustainability on **"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"**, together with:
+
+🔹 Dr. Nigel K. Downes (Can Tho University, Vietnam)
 
 🔹 Dr. Olabisi S. Obaitor (LMU Munich, Germany)
 

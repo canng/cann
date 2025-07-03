@@ -123,6 +123,13 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <br>
 
+#### Wiley  (1 Journal)
+
+(1) <a href="https://onlinelibrary.wiley.com/journal/1099145X">Land Degradation & Development
+</a>
+
+<br>
+
 #### Other Journals & Conferences
 
 (1) <a href="http://www.serena.unina.it/index.php/tema/">TEMA Journal of Land Use, Mobility and Environment</a> (ESCI); 

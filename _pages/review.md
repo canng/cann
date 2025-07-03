@@ -38,8 +38,10 @@ permalink: /review/
 #### **Editorial Board Member**
 
 <a href="https://link.springer.com/journal/44327/editorial-board">Discover Cities</a>, Springer<br>
-<a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer
-<br>
+<a href="https://link.springer.com/journal/43621/editorial-board">Discover Sustainability</a>, Springer<br>
+
+#### **Guest Editor**
+<a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability</a> (Sustainability, MDPI)<br>
 <br>
 
 #### **Project Evaluation**

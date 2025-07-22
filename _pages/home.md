@@ -25,19 +25,25 @@ permalink: /
 
 <!-- Items -->
 <div class="carousel-inner" role="listbox" markdown="0">
+
 <div class="item active">
 <a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">
 <img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_01.jpg" class="img-responsive"  alt="Slide 1"/>
+</a>
 </div>
+
 <div class="item">
 <img class="second-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_02.jpg" class="img-responsive" alt="Slide 2" />
 </div>
+
 <div class="item">
 <img class="third-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_03.jpg" class="img-responsive" alt="Slide 3" />
 </div>
+
 <div class="item">
 <img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_04.jpg" class="img-responsive" alt="Slide 4" />
 </div>
+
 <div class="item">
 <img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_05.jpg" class="img-responsive" alt="Slide 5" />
 </div>

@@ -26,6 +26,7 @@ permalink: /
 <!-- Items -->
 <div class="carousel-inner" role="listbox" markdown="0">
 <div class="item active">
+<a href="https://www.mdpi.com/journal/sustainability/special_issues/5F78LD3752">
 <img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_01.jpg" class="img-responsive"  alt="Slide 1"/>
 </div>
 <div class="item">

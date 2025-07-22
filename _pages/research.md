@@ -1,5 +1,5 @@
 ---
-title: "Cann | Research"
+title: "Research"
 layout: piclay
 excerpt: "Research"
 sitemap: false

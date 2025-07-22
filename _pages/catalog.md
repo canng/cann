@@ -1,5 +1,5 @@
 ---
-title: "Cann | Catalog"
+title: "Catalog"
 layout: textlay
 excerpt: "Catalog"
 sitemap: false

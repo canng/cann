@@ -1,5 +1,5 @@
 ---
-title: "Cann | Services"
+title: "Services"
 layout: textlay
 excerpt: "Review"
 sitemap: false

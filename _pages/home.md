@@ -1,5 +1,5 @@
 ---
-title: "Home | Cann"
+title: "Home"
 layout: homelay
 excerpt:  "Cann"
 sitemap: false
@@ -47,9 +47,6 @@ permalink: /
 <div class="item">
 <img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/slider_05.jpg" class="img-responsive" alt="Slide 5" />
 </div>
-
-
-
 
 </div>
 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

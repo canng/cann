@@ -1,5 +1,5 @@
 ---
-title: "Cann | SDGs"
+title: "SDGs"
 layout: textlay
 excerpt: "SDGs"
 sitemap: false

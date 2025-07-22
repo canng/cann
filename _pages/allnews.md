@@ -1,5 +1,5 @@
 ---
-title: "Cann | News"
+title: "News"
 layout: textlay
 excerpt: "COLAB at EOS-SFSU."
 sitemap: false

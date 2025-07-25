@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Poster] Poster presentation on BII Footprints Appropriation to Agriculture at EGU25"
+title: "📌Poster presentation on BII Footprints Appropriation to Agriculture at EGU25"
 date: 2025-05-04
 ---
 

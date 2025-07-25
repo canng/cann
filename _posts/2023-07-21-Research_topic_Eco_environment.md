@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Research Topic] Ecological environment"
+title: "💡 Ecological environment"
 date: 2023-07-21
 ---
 

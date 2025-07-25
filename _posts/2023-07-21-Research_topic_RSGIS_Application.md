@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Research Topic] Remote Sensing & Geoinformatic Applications"
+title: "💡 Remote Sensing & Geoinformatic Applications"
 date: 2023-07-21
 ---
 

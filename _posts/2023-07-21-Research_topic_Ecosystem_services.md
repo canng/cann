@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Research Topic] Ecosystem Services"
+title: "💡 Ecosystem Services"
 date: 2023-07-21
 ---
 

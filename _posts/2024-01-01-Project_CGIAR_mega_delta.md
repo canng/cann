@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Project] CGIAR: Securing Food system of Asian Mega-deltas"
+title: "💡 CGIAR: Securing Food system of Asian Mega-deltas"
 date: 2024-01-01
 ---
 

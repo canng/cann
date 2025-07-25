@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Research Topic] Urbanization & Urban Environment"
+title: "💡 Urbanization & Urban Environment"
 date: 2023-07-21
 ---
 

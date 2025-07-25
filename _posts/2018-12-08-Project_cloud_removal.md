@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: "[Project] Cloud removal on MODIS time series"
+title: "💡 Cloud removal on MODIS time series"
 date: 2018-12-08
 ---
 

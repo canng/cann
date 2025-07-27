@@ -22,9 +22,9 @@ date: 2025-07-01
 
 I am currently editing a Special Issue for Sustainability on **"Designing Resilient Cities: Landscape-Based Architecture and Green Space Strategies for Urban Sustainability"**, together with:
 
-🔹 Dr. Nigel K. Downes (Can Tho University, Vietnam)
+🔹 <a href="https://scholar.google.com/citations?user=cNYcVQ0AAAAJ&hl=en">Dr. Nigel K. Downes </a> (Can Tho University, Vietnam)
 
-🔹 Dr. Olabisi S. Obaitor (LMU Munich, Germany)
+🔹 <a href="https://www.geo.lmu.de/geographie/de/personen/kontaktseite/olabisi-obaitor-4e3afe23.html">Dr. Olabisi S. Obaitor</a> (LMU Munich, Germany)
 
 This SI explores how landscape architecture, green space planning, and urban nature can contribute to climate-responsive, sustainable, and equitable urban development, particularly across the Global South. 
 

@@ -97,9 +97,10 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 #### Taylor and Francis  (4 Journals)
 
 (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
-(2) <a href="https://www.tandfonline.com/toc/tgsi20/current">Geo-spatial Information Science</a>;
+(2) <a href="https://www.tandfonline.com/toc/tgsi20">Geo-spatial Information Science</a>;
 (3) <a href="https://www.tandfonline.com/journals/oaes21">Sustainable Environment</a>;
 (4) <a href="https://www.tandfonline.com/journals/nurw20">Urban Water Journal</a>;
+(5) <a href="https://www.tandfonline.com/journals/tgei20">Geocarto International</a>;
 
 <br>
 

@@ -94,7 +94,7 @@ Young Ecosystem Service Specialists <a href="https://www.es-partnership.org/serv
 
 <br>
 
-#### Taylor and Francis  (4 Journals)
+#### Taylor and Francis  (5 Journals)
 
 (1) <a href="https://www.tandfonline.com/journals/tjde20">International Journal of Digital Earth</a>; 
 (2) <a href="https://www.tandfonline.com/toc/tgsi20">Geo-spatial Information Science</a>;

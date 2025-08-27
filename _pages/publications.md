@@ -2,7 +2,7 @@
 title: "Publications"
 layout: textlay
 excerpt: "publications."
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 

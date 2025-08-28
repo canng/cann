@@ -10,7 +10,7 @@ title: Can T. Nguyen
 email: trongcan.ng@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is personal website.
-baseurl:  "/cann/" # the subpath of your site, e.g. /blog/
+baseurl:  "cann" # the subpath of your site, e.g. /blog/
 url: "https://canng.github.io" # the base hostname & protocol for your site
 
 include:
